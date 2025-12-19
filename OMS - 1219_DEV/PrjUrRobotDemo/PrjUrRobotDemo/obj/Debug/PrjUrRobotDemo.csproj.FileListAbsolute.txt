@@ -1,0 +1,86 @@
+D:\Fred\@FV20\PrjUrRobotDemo\PrjUrRobotDemo\bin\Debug\PrjUrRobotDemo.exe.config
+D:\Fred\@FV20\PrjUrRobotDemo\PrjUrRobotDemo\bin\Debug\PrjUrRobotDemo.exe
+D:\Fred\@FV20\PrjUrRobotDemo\PrjUrRobotDemo\bin\Debug\PrjUrRobotDemo.pdb
+D:\Fred\@FV20\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.Form1.resources
+D:\Fred\@FV20\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.Properties.Resources.resources
+D:\Fred\@FV20\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.csproj.GenerateResource.cache
+D:\Fred\@FV20\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.csproj.CoreCompileInputs.cache
+D:\Fred\@FV20\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.exe
+D:\Fred\@FV20\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.pdb
+D:\Fred\@FV20\PrjUrRobotDemo\PrjUrRobotDemo\bin\Debug\System.Numerics.Vectors.dll
+D:\Fred\@FV20\PrjUrRobotDemo\PrjUrRobotDemo\bin\Debug\System.Numerics.Vectors.xml
+D:\Fred\@FV20\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.csproj.CopyComplete
+D:\Fred\PrjUrRobotDemo\PrjUrRobotDemo\bin\Debug\PrjUrRobotDemo.pdb
+D:\Fred\PrjUrRobotDemo\PrjUrRobotDemo\bin\Debug\System.Numerics.Vectors.dll
+D:\Fred\PrjUrRobotDemo\PrjUrRobotDemo\bin\Debug\System.Numerics.Vectors.xml
+D:\Fred\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.Form1.resources
+D:\Fred\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.Properties.Resources.resources
+D:\Fred\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.csproj.GenerateResource.cache
+D:\Fred\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.csproj.CoreCompileInputs.cache
+D:\Fred\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.csproj.CopyComplete
+D:\Fred\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.pdb
+D:\Fred\PrjUrRobotDemo\PrjUrRobotDemo\bin\Debug\PrjUrRobotDemo.dll.config
+D:\Fred\PrjUrRobotDemo\PrjUrRobotDemo\bin\Debug\PrjUrRobotDemo.dll
+D:\Fred\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.dll
+D:\PENO\AIC\PrjUrRobotDemo\PrjUrRobotDemo\bin\Debug\PrjUrRobotDemo.dll.config
+D:\PENO\AIC\PrjUrRobotDemo\PrjUrRobotDemo\bin\Debug\PrjUrRobotDemo.dll
+D:\PENO\AIC\PrjUrRobotDemo\PrjUrRobotDemo\bin\Debug\PrjUrRobotDemo.pdb
+D:\PENO\AIC\PrjUrRobotDemo\PrjUrRobotDemo\bin\Debug\System.Numerics.Vectors.dll
+D:\PENO\AIC\PrjUrRobotDemo\PrjUrRobotDemo\bin\Debug\System.Numerics.Vectors.xml
+D:\PENO\AIC\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.Form1.resources
+D:\PENO\AIC\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.Properties.Resources.resources
+D:\PENO\AIC\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.csproj.GenerateResource.Cache
+D:\PENO\AIC\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.dll
+D:\PENO\AIC\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.pdb
+D:\Peno\PrjUrRobotDemo\PrjUrRobotDemo\bin\Debug\PrjUrRobotDemo.dll.config
+D:\Peno\PrjUrRobotDemo\PrjUrRobotDemo\bin\Debug\PrjUrRobotDemo.dll
+D:\Peno\PrjUrRobotDemo\PrjUrRobotDemo\bin\Debug\PrjUrRobotDemo.pdb
+D:\Peno\PrjUrRobotDemo\PrjUrRobotDemo\bin\Debug\System.Numerics.Vectors.dll
+D:\Peno\PrjUrRobotDemo\PrjUrRobotDemo\bin\Debug\System.Numerics.Vectors.xml
+D:\Peno\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.csproj.AssemblyReference.cache
+D:\Peno\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.Form1.resources
+D:\Peno\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.Properties.Resources.resources
+D:\Peno\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.csproj.GenerateResource.cache
+D:\Peno\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.csproj.CoreCompileInputs.cache
+D:\Peno\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.csproj.CopyComplete
+D:\Peno\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.dll
+D:\Peno\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.pdb
+D:\PENO\AIC\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.csprojResolveAssemblyReference.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0115\PrjUrRobotDemo\PrjUrRobotDemo\bin\Debug\PrjUrRobotDemo.dll.config
+D:\00. Code\AIC Calibration Platform\OMS - 0115\PrjUrRobotDemo\PrjUrRobotDemo\bin\Debug\PrjUrRobotDemo.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0115\PrjUrRobotDemo\PrjUrRobotDemo\bin\Debug\PrjUrRobotDemo.pdb
+D:\00. Code\AIC Calibration Platform\OMS - 0115\PrjUrRobotDemo\PrjUrRobotDemo\bin\Debug\System.Numerics.Vectors.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0115\PrjUrRobotDemo\PrjUrRobotDemo\bin\Debug\System.Numerics.Vectors.xml
+D:\00. Code\AIC Calibration Platform\OMS - 0115\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.Form1.resources
+D:\00. Code\AIC Calibration Platform\OMS - 0115\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.Properties.Resources.resources
+D:\00. Code\AIC Calibration Platform\OMS - 0115\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.csproj.GenerateResource.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0115\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.csproj.CoreCompileInputs.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0115\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.csproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 0115\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0115\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.pdb
+D:\00. Code\AIC Calibration Platform\OMS - 0221\PrjUrRobotDemo\PrjUrRobotDemo\bin\Debug\PrjUrRobotDemo.dll.config
+D:\00. Code\AIC Calibration Platform\OMS - 0221\PrjUrRobotDemo\PrjUrRobotDemo\bin\Debug\PrjUrRobotDemo.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0221\PrjUrRobotDemo\PrjUrRobotDemo\bin\Debug\PrjUrRobotDemo.pdb
+D:\00. Code\AIC Calibration Platform\OMS - 0221\PrjUrRobotDemo\PrjUrRobotDemo\bin\Debug\System.Numerics.Vectors.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0221\PrjUrRobotDemo\PrjUrRobotDemo\bin\Debug\System.Numerics.Vectors.xml
+D:\00. Code\AIC Calibration Platform\OMS - 0221\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.Form1.resources
+D:\00. Code\AIC Calibration Platform\OMS - 0221\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.Properties.Resources.resources
+D:\00. Code\AIC Calibration Platform\OMS - 0221\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.csproj.GenerateResource.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0221\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.csproj.CoreCompileInputs.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0221\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.csproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 0221\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0221\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.pdb
+D:\00. Code\AIC Calibration Platform\OMS - 0221\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.csprojAssemblyReference.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0221_2\PrjUrRobotDemo\PrjUrRobotDemo\bin\Debug\PrjUrRobotDemo.dll.config
+D:\00. Code\AIC Calibration Platform\OMS - 0221_2\PrjUrRobotDemo\PrjUrRobotDemo\bin\Debug\PrjUrRobotDemo.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0221_2\PrjUrRobotDemo\PrjUrRobotDemo\bin\Debug\PrjUrRobotDemo.pdb
+D:\00. Code\AIC Calibration Platform\OMS - 0221_2\PrjUrRobotDemo\PrjUrRobotDemo\bin\Debug\System.Numerics.Vectors.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0221_2\PrjUrRobotDemo\PrjUrRobotDemo\bin\Debug\System.Numerics.Vectors.xml
+D:\00. Code\AIC Calibration Platform\OMS - 0221_2\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.Form1.resources
+D:\00. Code\AIC Calibration Platform\OMS - 0221_2\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.Properties.Resources.resources
+D:\00. Code\AIC Calibration Platform\OMS - 0221_2\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.csproj.GenerateResource.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0221_2\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.csproj.CoreCompileInputs.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0221_2\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.csproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 0221_2\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0221_2\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.pdb
+D:\00. Code\AIC Calibration Platform\OMS - 0221_2\PrjUrRobotDemo\PrjUrRobotDemo\obj\Debug\PrjUrRobotDemo.csprojAssemblyReference.cache

@@ -1,0 +1,26 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly CudaCore, Version=1.0.*, Culture=不因語言而異 (不因國別而異): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Matrox.MatroxImagingLibrary, Version=10.50.721.10071, Culture=neutral, PublicKeyToken=5a83d419d44a9d98: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class CudaCore.CudaInterFace: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Properties:
+    System.String GetCudaErrMsg 'get ' : 
+  Methods:
+    InitCudaDevice(Int32): PrivateScope, Public, HideBySig
+    CudaFiveByFiveCompare(Int32, Int32, Int32, Int32, Int32, Int32, Int32, Int32, Int32, Int32, Int32, Int32, UInt16*, Byte*): PrivateScope, Public, HideBySig
+    CudaFourWayHotPixelFilter(Int32, Int32, Double, Double, Int32, UInt16*, Byte*): PrivateScope, Public, HideBySig
+    CudaTowWayHotPixelFilter(Int32, Int32, Double, Double, Int32, UInt16*, Byte*): PrivateScope, Public, HideBySig
+    get_GetCudaErrMsg(): PrivateScope, Public, HideBySig, SpecialName
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig

@@ -1,0 +1,76 @@
+D:\0607_Rick test\Optical Measurement System\PreProcCore\x64\Debug\PreProcCore.vcxproj.AssemblyReference.cache
+D:\0607_Rick test\Optical Measurement System\PreProcCore\x64\Debug\PreProcCore.vcxproj.CopyComplete
+D:\work\Tool\33_AIC_光學量測頭\TAF  實驗室驗證_程式版本\Optical Measurement System\PreProcCore\x64\Debug\PreProcCore.vcxproj.AssemblyReference.cache
+D:\work\Tool\33_AIC_光學量測頭\TAF  實驗室驗證_程式版本\Optical Measurement System\PreProcCore\x64\Debug\PreProcCore.vcxproj.CopyComplete
+H:\Optical Measurement System\PreProcCore\x64\Debug\PreProcCore.vcxproj.AssemblyReference.cache
+H:\Optical Measurement System\PreProcCore\x64\Debug\PreProcCore.vcxproj.CopyComplete
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System_20231114\PreProcCore\x64\Debug\PreProcCore.vcxproj.AssemblyReference.cache
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System_20231114\PreProcCore\x64\Debug\PreProcCore.vcxproj.CopyComplete
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\PreProcCore\x64\Debug\PreProcCore.vcxproj.AssemblyReference.cache
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\PreProcCore\x64\Debug\PreProcCore.vcxproj.CopyComplete
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\PreProcCore\x64\Debug\PreProcCore.vcxproj.AssemblyReference.cache
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\PreProcCore\x64\Debug\PreProcCore.vcxproj.CopyComplete
+E:\Work\Optical Measurement System_20240508_1452_AIL\Optical Measurement System\PreProcCore\x64\Debug\PreProcCore.vcxproj.AssemblyReference.cache
+E:\Work\Optical Measurement System_20240508_1452_AIL\Optical Measurement System\PreProcCore\x64\Debug\PreProcCore.vcxproj.CopyComplete
+E:\Work\Optical Measurement System_20240508_1617_AIL\Optical Measurement System\PreProcCore\x64\Debug\PreProcCore.vcxproj.AssemblyReference.cache
+E:\Work\Optical Measurement System_20240508_1617_AIL\Optical Measurement System\PreProcCore\x64\Debug\PreProcCore.vcxproj.CopyComplete
+E:\Work\Optical Measurement System_20240508_1632_AIL\Optical Measurement System\PreProcCore\x64\Debug\PreProcCore.vcxproj.AssemblyReference.cache
+E:\Work\Optical Measurement System_20240508_1632_AIL\Optical Measurement System\PreProcCore\x64\Debug\PreProcCore.vcxproj.CopyComplete
+D:\Work\Source code\Optical Measurement System\PreProcCore\x64\Debug\PreProcCore.vcxproj.AssemblyReference.cache
+D:\Work\Source code\Optical Measurement System\PreProcCore\x64\Debug\PreProcCore.vcxproj.CopyComplete
+D:\00. Code\校驗平台\OMS\PreProcCore\x64\Debug\PreProcCore.vcxprojAssemblyReference.cache
+D:\00. Code\校驗平台\OMS\PreProcCore\x64\Debug\PreProcCore.vcxproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 0527\PreProcCore\x64\Debug\PreProcCore.vcxprojAssemblyReference.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0527\PreProcCore\x64\Debug\PreProcCore.vcxproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 0528\PreProcCore\x64\Debug\PreProcCore.vcxprojAssemblyReference.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0528\PreProcCore\x64\Debug\PreProcCore.vcxproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 0603\PreProcCore\x64\Debug\PreProcCore.vcxprojAssemblyReference.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0603\PreProcCore\x64\Debug\PreProcCore.vcxproj.CopyComplete
+D:\OMS - 0603\PreProcCore\x64\Debug\PreProcCore.vcxproj.AssemblyReference.cache
+D:\OMS - 0603\PreProcCore\x64\Debug\PreProcCore.vcxproj.CopyComplete
+D:\Cody\Cody_OMS - 0701\PreProcCore\x64\Debug\PreProcCore.vcxproj.AssemblyReference.cache
+D:\Cody\Cody_OMS - 0701\PreProcCore\x64\Debug\PreProcCore.vcxproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\Cody_OMS - 0701\PreProcCore\x64\Debug\PreProcCore.vcxprojAssemblyReference.cache
+D:\00. Code\AIC Calibration Platform\Cody_OMS - 0701\PreProcCore\x64\Debug\PreProcCore.vcxproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 0912\PreProcCore\x64\Debug\PreProcCore.vcxprojAssemblyReference.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0912\PreProcCore\x64\Debug\PreProcCore.vcxproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 0913\PreProcCore\x64\Debug\PreProcCore.vcxprojAssemblyReference.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0913\PreProcCore\x64\Debug\PreProcCore.vcxproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 0918\PreProcCore\x64\Debug\PreProcCore.vcxprojAssemblyReference.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0918\PreProcCore\x64\Debug\PreProcCore.vcxproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 0923\PreProcCore\x64\Debug\PreProcCore.vcxprojAssemblyReference.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0923\PreProcCore\x64\Debug\PreProcCore.vcxproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 0924\PreProcCore\x64\Debug\PreProcCore.vcxprojAssemblyReference.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0924\PreProcCore\x64\Debug\PreProcCore.vcxproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 0925\PreProcCore\x64\Debug\PreProcCore.vcxprojAssemblyReference.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0925\PreProcCore\x64\Debug\PreProcCore.vcxproj.CopyComplete
+D:\Cody\OMS - 0925\PreProcCore\x64\Debug\PreProcCore.vcxproj.AssemblyReference.cache
+D:\Cody\OMS - 0925\PreProcCore\x64\Debug\PreProcCore.vcxproj.CopyComplete
+D:\Cody\OMS - 1009\PreProcCore\x64\Debug\PreProcCore.vcxproj.AssemblyReference.cache
+D:\Cody\OMS - 1009\PreProcCore\x64\Debug\PreProcCore.vcxproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 1009\PreProcCore\x64\Debug\PreProcCore.vcxprojAssemblyReference.cache
+D:\00. Code\AIC Calibration Platform\OMS - 1009\PreProcCore\x64\Debug\PreProcCore.vcxproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 1017\PreProcCore\x64\Debug\PreProcCore.vcxprojAssemblyReference.cache
+D:\00. Code\AIC Calibration Platform\OMS - 1017\PreProcCore\x64\Debug\PreProcCore.vcxproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 1022\PreProcCore\x64\Debug\PreProcCore.vcxprojAssemblyReference.cache
+D:\00. Code\AIC Calibration Platform\OMS - 1022\PreProcCore\x64\Debug\PreProcCore.vcxproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 1022 (Mdisplay)\PreProcCore\x64\Debug\PreProcCore.vcxprojAssemblyReference.cache
+D:\00. Code\AIC Calibration Platform\OMS - 1022 (Mdisplay)\PreProcCore\x64\Debug\PreProcCore.vcxproj.CopyComplete
+D:\Cody\OMS - 1025\OMS - 1022 (Mdisplay)\PreProcCore\x64\Debug\PreProcCore.vcxproj.AssemblyReference.cache
+D:\Cody\OMS - 1025\OMS - 1022 (Mdisplay)\PreProcCore\x64\Debug\PreProcCore.vcxproj.CopyComplete
+D:\Cody\OMS - 1101\OMS - 1101\PreProcCore\x64\Debug\PreProcCore.vcxproj.AssemblyReference.cache
+D:\Cody\OMS - 1101\OMS - 1101\PreProcCore\x64\Debug\PreProcCore.vcxproj.CopyComplete
+D:\Cody\OMS - 1101 - 複製\OMS - 1101\PreProcCore\x64\Debug\PreProcCore.vcxproj.AssemblyReference.cache
+D:\Cody\OMS - 1101 - 複製\OMS - 1101\PreProcCore\x64\Debug\PreProcCore.vcxproj.CopyComplete
+D:\Cody\OMS - 1101 - V Curve\OMS - 1101\PreProcCore\x64\Debug\PreProcCore.vcxproj.AssemblyReference.cache
+D:\Cody\OMS - 1101 - V Curve\OMS - 1101\PreProcCore\x64\Debug\PreProcCore.vcxproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 1111\OMS - 1111\PreProcCore\x64\Debug\PreProcCore.vcxprojAssemblyReference.cache
+D:\00. Code\AIC Calibration Platform\OMS - 1111\OMS - 1111\PreProcCore\x64\Debug\PreProcCore.vcxproj.CopyComplete
+D:\Cody\OMS - 1111 (優化)\PreProcCore\x64\Debug\PreProcCore.vcxproj.AssemblyReference.cache
+D:\Cody\OMS - 1111 (優化)\PreProcCore\x64\Debug\PreProcCore.vcxproj.CopyComplete
+D:\Cody\OMS - 1111 (優化) - 複製\PreProcCore\x64\Debug\PreProcCore.vcxproj.AssemblyReference.cache
+D:\Cody\OMS - 1111 (優化) - 複製\PreProcCore\x64\Debug\PreProcCore.vcxproj.CopyComplete
+D:\Cody\OMS - 1121\PreProcCore\x64\Debug\PreProcCore.vcxproj.AssemblyReference.cache
+D:\Cody\OMS - 1121\PreProcCore\x64\Debug\PreProcCore.vcxproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 0107\PreProcCore\x64\Debug\PreProcCore.vcxprojAssemblyReference.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0107\PreProcCore\x64\Debug\PreProcCore.vcxproj.CopyComplete

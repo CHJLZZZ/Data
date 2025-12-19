@@ -1,0 +1,9 @@
+D:\UA200A\UA200A_Test0908\UA200A_Test0908\bin\Debug\UA200A_Test0908.exe.config
+D:\UA200A\UA200A_Test0908\UA200A_Test0908\bin\Debug\UA200A_Test0908.exe
+D:\UA200A\UA200A_Test0908\UA200A_Test0908\bin\Debug\UA200A_Test0908.pdb
+D:\UA200A\UA200A_Test0908\UA200A_Test0908\bin\Debug\ua_core4_net.dll
+D:\UA200A\UA200A_Test0908\UA200A_Test0908\obj\Debug\UA200A_Test0908.Form1.resources
+D:\UA200A\UA200A_Test0908\UA200A_Test0908\obj\Debug\UA200A_Test0908.Properties.Resources.resources
+D:\UA200A\UA200A_Test0908\UA200A_Test0908\obj\Debug\UA200A_Test0908.csproj.GenerateResource.Cache
+D:\UA200A\UA200A_Test0908\UA200A_Test0908\obj\Debug\UA200A_Test0908.exe
+D:\UA200A\UA200A_Test0908\UA200A_Test0908\obj\Debug\UA200A_Test0908.pdb

@@ -1,0 +1,6 @@
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\PreProcCore\x64\Release\PreProcCore.vcxproj.AssemblyReference.cache
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\PreProcCore\x64\Release\PreProcCore.vcxproj.CopyComplete
+D:\0607_Rick test\Optical Measurement System\PreProcCore\x64\Release\PreProcCore.vcxproj.AssemblyReference.cache
+D:\0607_Rick test\Optical Measurement System\PreProcCore\x64\Release\PreProcCore.vcxproj.CopyComplete
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\PreProcCore\x64\Release\PreProcCore.vcxproj.AssemblyReference.cache
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\PreProcCore\x64\Release\PreProcCore.vcxproj.CopyComplete

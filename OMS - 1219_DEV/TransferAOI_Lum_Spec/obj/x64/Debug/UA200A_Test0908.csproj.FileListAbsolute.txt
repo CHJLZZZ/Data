@@ -1,0 +1,55 @@
+D:\UA200A\UA200A_Test0908\UA200A_Test0908\bin\x64\Debug\UA200A_Test0908.exe.config
+D:\UA200A\UA200A_Test0908\UA200A_Test0908\bin\x64\Debug\UA200A_Test0908.exe
+D:\UA200A\UA200A_Test0908\UA200A_Test0908\bin\x64\Debug\UA200A_Test0908.pdb
+D:\UA200A\UA200A_Test0908\UA200A_Test0908\bin\x64\Debug\CommonBase.dll
+D:\UA200A\UA200A_Test0908\UA200A_Test0908\obj\x64\Debug\UA200A_Test0908.Properties.Resources.resources
+D:\UA200A\UA200A_Test0908\UA200A_Test0908\obj\x64\Debug\UA200A_Test0908.csproj.GenerateResource.Cache
+D:\UA200A\UA200A_Test0908\UA200A_Test0908\obj\x64\Debug\UA200A_Test0908.exe
+D:\UA200A\UA200A_Test0908\UA200A_Test0908\obj\x64\Debug\UA200A_Test0908.pdb
+D:\UA200A\UA200A_Test0908\UA200A_Test0908\bin\x64\Debug\ua_core4_net.dll
+D:\UA200A\UA200A_Test0908\UA200A_Test0908\obj\x64\Debug\UA200A_Test0908.csprojResolveAssemblyReference.cache
+D:\UA200A\UA200A_Test0908\UA200A_Test0908\bin\x64\Debug\HsApiNet.dll
+D:\UA200A\UA200A_Test0908\UA200A_Test0908\obj\x64\Debug\UA200A_Test0908.frmMain.resources
+D:\UA200A\UA200A_Test0908\UA200A_Test0908\obj\x64\Debug\UA200A_Test0908.frmSR5100Setting.resources
+D:\UA200A\UA200A_Test0908\UA200A_Test0908\obj\x64\Debug\UA200A_Test0908.frmUA200ASetting.resources
+D:\UA200A\UA200A_Test0908\UA200A_Test0908\bin\x64\Debug\CsvHelper.dll
+D:\UA200A\UA200A_Test0908\UA200A_Test0908\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\UA200A\UA200A_Test0908\UA200A_Test0908\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\UA200A\UA200A_Test0908\UA200A_Test0908\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+D:\UA200A\UA200A_Test0908\UA200A_Test0908\bin\x64\Debug\CsvHelper.xml
+D:\UA200A\UA200A_Test0908\UA200A_Test0908\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\UA200A\UA200A_Test0908\UA200A_Test0908\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\UA200A\UA200A_Test0908\UA200A_Test0908\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+D:\UA200A\UA200A_Test0908\UA200A_Test0908\bin\x64\Debug\Matrox.MatroxImagingLibrary.dll
+D:\UA200A\UA200A_Test0908\UA200A_Test0908\bin\x64\Debug\Matrox.MatroxImagingLibrary.xml
+D:\UA200A\UA200A_Test0908\UA200A_Test0908\obj\x64\Debug\UA200A_Test0908.frmSystemSetting.resources
+D:\UA200A\UA200A_Test0908\UA200A_Test0908\obj\x64\Debug\UA200A_Test0908.frmLogin.resources
+D:\UA200A\UA200A_Test0908\UA200A_Test0908\obj\x64\Debug\UA200A_Test0908.frmUserEdit.resources
+D:\UA200A\UA200A_Test0908\UA200A_Test0908\obj\x64\Debug\UA200A_Test0908.frmUserManage.resources
+D:\【Code】\開發 (備份)\Transfer AOI\1214程式\1214程式\UA200A_Test0908\UA200A_Test0908\bin\x64\Debug\UA200A_Test0908.exe.config
+D:\【Code】\開發 (備份)\Transfer AOI\1214程式\1214程式\UA200A_Test0908\UA200A_Test0908\bin\x64\Debug\UA200A_Test0908.exe
+D:\【Code】\開發 (備份)\Transfer AOI\1214程式\1214程式\UA200A_Test0908\UA200A_Test0908\bin\x64\Debug\UA200A_Test0908.pdb
+D:\【Code】\開發 (備份)\Transfer AOI\1214程式\1214程式\UA200A_Test0908\UA200A_Test0908\bin\x64\Debug\CsvHelper.dll
+D:\【Code】\開發 (備份)\Transfer AOI\1214程式\1214程式\UA200A_Test0908\UA200A_Test0908\bin\x64\Debug\Matrox.MatroxImagingLibrary.dll
+D:\【Code】\開發 (備份)\Transfer AOI\1214程式\1214程式\UA200A_Test0908\UA200A_Test0908\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\【Code】\開發 (備份)\Transfer AOI\1214程式\1214程式\UA200A_Test0908\UA200A_Test0908\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\【Code】\開發 (備份)\Transfer AOI\1214程式\1214程式\UA200A_Test0908\UA200A_Test0908\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+D:\【Code】\開發 (備份)\Transfer AOI\1214程式\1214程式\UA200A_Test0908\UA200A_Test0908\bin\x64\Debug\CsvHelper.xml
+D:\【Code】\開發 (備份)\Transfer AOI\1214程式\1214程式\UA200A_Test0908\UA200A_Test0908\bin\x64\Debug\Matrox.MatroxImagingLibrary.xml
+D:\【Code】\開發 (備份)\Transfer AOI\1214程式\1214程式\UA200A_Test0908\UA200A_Test0908\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\【Code】\開發 (備份)\Transfer AOI\1214程式\1214程式\UA200A_Test0908\UA200A_Test0908\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\【Code】\開發 (備份)\Transfer AOI\1214程式\1214程式\UA200A_Test0908\UA200A_Test0908\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+D:\【Code】\開發 (備份)\Transfer AOI\1214程式\1214程式\UA200A_Test0908\UA200A_Test0908\obj\x64\Debug\UA200A_Test0908.csprojAssemblyReference.cache
+D:\【Code】\開發 (備份)\Transfer AOI\1214程式\1214程式\UA200A_Test0908\UA200A_Test0908\obj\x64\Debug\UA200A_Test0908.frmLogin.resources
+D:\【Code】\開發 (備份)\Transfer AOI\1214程式\1214程式\UA200A_Test0908\UA200A_Test0908\obj\x64\Debug\UA200A_Test0908.frmMain.resources
+D:\【Code】\開發 (備份)\Transfer AOI\1214程式\1214程式\UA200A_Test0908\UA200A_Test0908\obj\x64\Debug\UA200A_Test0908.frmSR5100Setting.resources
+D:\【Code】\開發 (備份)\Transfer AOI\1214程式\1214程式\UA200A_Test0908\UA200A_Test0908\obj\x64\Debug\UA200A_Test0908.frmSystemSetting.resources
+D:\【Code】\開發 (備份)\Transfer AOI\1214程式\1214程式\UA200A_Test0908\UA200A_Test0908\obj\x64\Debug\UA200A_Test0908.frmUserEdit.resources
+D:\【Code】\開發 (備份)\Transfer AOI\1214程式\1214程式\UA200A_Test0908\UA200A_Test0908\obj\x64\Debug\UA200A_Test0908.frmUserManage.resources
+D:\【Code】\開發 (備份)\Transfer AOI\1214程式\1214程式\UA200A_Test0908\UA200A_Test0908\obj\x64\Debug\UA200A_Test0908.Properties.Resources.resources
+D:\【Code】\開發 (備份)\Transfer AOI\1214程式\1214程式\UA200A_Test0908\UA200A_Test0908\obj\x64\Debug\UA200A_Test0908.frmUA200ASetting.resources
+D:\【Code】\開發 (備份)\Transfer AOI\1214程式\1214程式\UA200A_Test0908\UA200A_Test0908\obj\x64\Debug\UA200A_Test0908.csproj.GenerateResource.cache
+D:\【Code】\開發 (備份)\Transfer AOI\1214程式\1214程式\UA200A_Test0908\UA200A_Test0908\obj\x64\Debug\UA200A_Test0908.csproj.CoreCompileInputs.cache
+D:\【Code】\開發 (備份)\Transfer AOI\1214程式\1214程式\UA200A_Test0908\UA200A_Test0908\obj\x64\Debug\UA200A_Test0908.csproj.CopyComplete
+D:\【Code】\開發 (備份)\Transfer AOI\1214程式\1214程式\UA200A_Test0908\UA200A_Test0908\obj\x64\Debug\UA200A_Test0908.exe
+D:\【Code】\開發 (備份)\Transfer AOI\1214程式\1214程式\UA200A_Test0908\UA200A_Test0908\obj\x64\Debug\UA200A_Test0908.pdb

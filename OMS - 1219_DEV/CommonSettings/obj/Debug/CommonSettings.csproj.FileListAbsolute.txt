@@ -1,0 +1,135 @@
+D:\00. Code\04. AIC Calibration Platform\OMS - 1119\CommonSettings\bin\Debug\CommonSettings.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1119\CommonSettings\bin\Debug\CommonSettings.pdb
+D:\00. Code\04. AIC Calibration Platform\OMS - 1119\CommonSettings\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1119\CommonSettings\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1119\CommonSettings\bin\Debug\Microsoft.Analytics.Types.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1119\CommonSettings\obj\Debug\CommonSettings.csproj.CoreCompileInputs.cache
+D:\00. Code\04. AIC Calibration Platform\OMS - 1119\CommonSettings\obj\Debug\CommonSettings.csproj.CopyComplete
+D:\00. Code\04. AIC Calibration Platform\OMS - 1119\CommonSettings\obj\Debug\CommonSettings.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1119\CommonSettings\obj\Debug\CommonSettings.pdb
+D:\人員資料夾\Cody\20251120\OMS - 1120_Lab\CommonSettings\bin\Debug\CommonSettings.dll
+D:\人員資料夾\Cody\20251120\OMS - 1120_Lab\CommonSettings\bin\Debug\CommonSettings.pdb
+D:\人員資料夾\Cody\20251120\OMS - 1120_Lab\CommonSettings\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\人員資料夾\Cody\20251120\OMS - 1120_Lab\CommonSettings\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+D:\人員資料夾\Cody\20251120\OMS - 1120_Lab\CommonSettings\bin\Debug\Microsoft.Analytics.Types.dll
+D:\人員資料夾\Cody\20251120\OMS - 1120_Lab\CommonSettings\obj\Debug\CommonSettings.csproj.CoreCompileInputs.cache
+D:\人員資料夾\Cody\20251120\OMS - 1120_Lab\CommonSettings\obj\Debug\CommonSettings.csproj.CopyComplete
+D:\人員資料夾\Cody\20251120\OMS - 1120_Lab\CommonSettings\obj\Debug\CommonSettings.dll
+D:\人員資料夾\Cody\20251120\OMS - 1120_Lab\CommonSettings\obj\Debug\CommonSettings.pdb
+D:\人員資料夾\Cody\OMS - 1120\OMS - 1120_Lab\CommonSettings\bin\Debug\CommonSettings.dll
+D:\人員資料夾\Cody\OMS - 1120\OMS - 1120_Lab\CommonSettings\bin\Debug\CommonSettings.pdb
+D:\人員資料夾\Cody\OMS - 1120\OMS - 1120_Lab\CommonSettings\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\人員資料夾\Cody\OMS - 1120\OMS - 1120_Lab\CommonSettings\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+D:\人員資料夾\Cody\OMS - 1120\OMS - 1120_Lab\CommonSettings\bin\Debug\Microsoft.Analytics.Types.dll
+D:\人員資料夾\Cody\OMS - 1120\OMS - 1120_Lab\CommonSettings\obj\Debug\CommonSettings.csproj.AssemblyReference.cache
+D:\人員資料夾\Cody\OMS - 1120\OMS - 1120_Lab\CommonSettings\obj\Debug\CommonSettings.csproj.CoreCompileInputs.cache
+D:\人員資料夾\Cody\OMS - 1120\OMS - 1120_Lab\CommonSettings\obj\Debug\CommonSettings.csproj.CopyComplete
+D:\人員資料夾\Cody\OMS - 1120\OMS - 1120_Lab\CommonSettings\obj\Debug\CommonSettings.dll
+D:\人員資料夾\Cody\OMS - 1120\OMS - 1120_Lab\CommonSettings\obj\Debug\CommonSettings.pdb
+D:\人員資料夾\Cody\OMS - 1124_Lab\CommonSettings\bin\Debug\CommonSettings.dll
+D:\人員資料夾\Cody\OMS - 1124_Lab\CommonSettings\bin\Debug\CommonSettings.pdb
+D:\人員資料夾\Cody\OMS - 1124_Lab\CommonSettings\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\人員資料夾\Cody\OMS - 1124_Lab\CommonSettings\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+D:\人員資料夾\Cody\OMS - 1124_Lab\CommonSettings\bin\Debug\Microsoft.Analytics.Types.dll
+D:\人員資料夾\Cody\OMS - 1124_Lab\CommonSettings\obj\Debug\CommonSettings.csproj.CoreCompileInputs.cache
+D:\人員資料夾\Cody\OMS - 1124_Lab\CommonSettings\obj\Debug\CommonSettings.csproj.CopyComplete
+D:\人員資料夾\Cody\OMS - 1124_Lab\CommonSettings\obj\Debug\CommonSettings.dll
+D:\人員資料夾\Cody\OMS - 1124_Lab\CommonSettings\obj\Debug\CommonSettings.pdb
+D:\00. Code\04. AIC Calibration Platform\OMS - 1124_單光儀_OA\CommonSettings\bin\Debug\CommonSettings.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1124_單光儀_OA\CommonSettings\bin\Debug\CommonSettings.pdb
+D:\00. Code\04. AIC Calibration Platform\OMS - 1124_單光儀_OA\CommonSettings\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1124_單光儀_OA\CommonSettings\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1124_單光儀_OA\CommonSettings\bin\Debug\Microsoft.Analytics.Types.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1124_單光儀_OA\CommonSettings\obj\Debug\CommonSettings.csprojAssemblyReference.cache
+D:\00. Code\04. AIC Calibration Platform\OMS - 1124_單光儀_OA\CommonSettings\obj\Debug\CommonSettings.csproj.CoreCompileInputs.cache
+D:\00. Code\04. AIC Calibration Platform\OMS - 1124_單光儀_OA\CommonSettings\obj\Debug\CommonSettings.csproj.CopyComplete
+D:\00. Code\04. AIC Calibration Platform\OMS - 1124_單光儀_OA\CommonSettings\obj\Debug\CommonSettings.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1124_單光儀_OA\CommonSettings\obj\Debug\CommonSettings.pdb
+D:\00. Code\04. AIC Calibration Platform\OMS - 1127\CommonSettings\bin\Debug\CommonSettings.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1127\CommonSettings\bin\Debug\CommonSettings.pdb
+D:\00. Code\04. AIC Calibration Platform\OMS - 1127\CommonSettings\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1127\CommonSettings\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1127\CommonSettings\bin\Debug\Microsoft.Analytics.Types.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1127\CommonSettings\obj\Debug\CommonSettings.csproj.CoreCompileInputs.cache
+D:\00. Code\04. AIC Calibration Platform\OMS - 1127\CommonSettings\obj\Debug\CommonSettings.csproj.CopyComplete
+D:\00. Code\04. AIC Calibration Platform\OMS - 1127\CommonSettings\obj\Debug\CommonSettings.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1127\CommonSettings\obj\Debug\CommonSettings.pdb
+D:\00. Code\04. AIC Calibration Platform\OMS - 1127\CommonSettings\obj\Debug\CommonSettings.csprojAssemblyReference.cache
+D:\00. Code\04. AIC Calibration Platform\OMS - 1202\CommonSettings\bin\Debug\CommonSettings.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1202\CommonSettings\bin\Debug\CommonSettings.pdb
+D:\00. Code\04. AIC Calibration Platform\OMS - 1202\CommonSettings\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1202\CommonSettings\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1202\CommonSettings\bin\Debug\Microsoft.Analytics.Types.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1202\CommonSettings\obj\Debug\CommonSettings.csproj.CoreCompileInputs.cache
+D:\00. Code\04. AIC Calibration Platform\OMS - 1202\CommonSettings\obj\Debug\CommonSettings.csproj.CopyComplete
+D:\00. Code\04. AIC Calibration Platform\OMS - 1202\CommonSettings\obj\Debug\CommonSettings.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1202\CommonSettings\obj\Debug\CommonSettings.pdb
+D:\人員資料夾\Cody\OMS - 1202 (Lab)\CommonSettings\bin\Debug\CommonSettings.dll
+D:\人員資料夾\Cody\OMS - 1202 (Lab)\CommonSettings\bin\Debug\CommonSettings.pdb
+D:\人員資料夾\Cody\OMS - 1202 (Lab)\CommonSettings\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\人員資料夾\Cody\OMS - 1202 (Lab)\CommonSettings\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+D:\人員資料夾\Cody\OMS - 1202 (Lab)\CommonSettings\bin\Debug\Microsoft.Analytics.Types.dll
+D:\人員資料夾\Cody\OMS - 1202 (Lab)\CommonSettings\obj\Debug\CommonSettings.csproj.AssemblyReference.cache
+D:\人員資料夾\Cody\OMS - 1202 (Lab)\CommonSettings\obj\Debug\CommonSettings.csproj.CoreCompileInputs.cache
+D:\人員資料夾\Cody\OMS - 1202 (Lab)\CommonSettings\obj\Debug\CommonSettings.csproj.CopyComplete
+D:\人員資料夾\Cody\OMS - 1202 (Lab)\CommonSettings\obj\Debug\CommonSettings.dll
+D:\人員資料夾\Cody\OMS - 1202 (Lab)\CommonSettings\obj\Debug\CommonSettings.pdb
+D:\00. Code\04. AIC Calibration Platform\OMS - 1203\CommonSettings\bin\Debug\CommonSettings.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1203\CommonSettings\bin\Debug\CommonSettings.pdb
+D:\00. Code\04. AIC Calibration Platform\OMS - 1203\CommonSettings\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1203\CommonSettings\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1203\CommonSettings\bin\Debug\Microsoft.Analytics.Types.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1203\CommonSettings\obj\Debug\CommonSettings.csprojAssemblyReference.cache
+D:\00. Code\04. AIC Calibration Platform\OMS - 1203\CommonSettings\obj\Debug\CommonSettings.csproj.CoreCompileInputs.cache
+D:\00. Code\04. AIC Calibration Platform\OMS - 1203\CommonSettings\obj\Debug\CommonSettings.csproj.CopyComplete
+D:\00. Code\04. AIC Calibration Platform\OMS - 1203\CommonSettings\obj\Debug\CommonSettings.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1203\CommonSettings\obj\Debug\CommonSettings.pdb
+D:\00. Code\04. AIC Calibration Platform\OMS - 1205\CommonSettings\bin\Debug\CommonSettings.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1205\CommonSettings\bin\Debug\CommonSettings.pdb
+D:\00. Code\04. AIC Calibration Platform\OMS - 1205\CommonSettings\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1205\CommonSettings\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1205\CommonSettings\bin\Debug\Microsoft.Analytics.Types.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1205\CommonSettings\obj\Debug\CommonSettings.csproj.CoreCompileInputs.cache
+D:\00. Code\04. AIC Calibration Platform\OMS - 1205\CommonSettings\obj\Debug\CommonSettings.csproj.CopyComplete
+D:\00. Code\04. AIC Calibration Platform\OMS - 1205\CommonSettings\obj\Debug\CommonSettings.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1205\CommonSettings\obj\Debug\CommonSettings.pdb
+D:\00. Code\04. AIC Calibration Platform\OMS - 1208\CommonSettings\bin\Debug\CommonSettings.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1208\CommonSettings\bin\Debug\CommonSettings.pdb
+D:\00. Code\04. AIC Calibration Platform\OMS - 1208\CommonSettings\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1208\CommonSettings\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1208\CommonSettings\bin\Debug\Microsoft.Analytics.Types.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1208\CommonSettings\obj\Debug\CommonSettings.csprojAssemblyReference.cache
+D:\00. Code\04. AIC Calibration Platform\OMS - 1208\CommonSettings\obj\Debug\CommonSettings.csproj.CoreCompileInputs.cache
+D:\00. Code\04. AIC Calibration Platform\OMS - 1208\CommonSettings\obj\Debug\CommonSettings.csproj.CopyComplete
+D:\00. Code\04. AIC Calibration Platform\OMS - 1208\CommonSettings\obj\Debug\CommonSettings.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1208\CommonSettings\obj\Debug\CommonSettings.pdb
+D:\00. Code\04. AIC Calibration Platform\OMS - 1210\CommonSettings\bin\Debug\CommonSettings.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1210\CommonSettings\bin\Debug\CommonSettings.pdb
+D:\00. Code\04. AIC Calibration Platform\OMS - 1210\CommonSettings\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1210\CommonSettings\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1210\CommonSettings\bin\Debug\Microsoft.Analytics.Types.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1210\CommonSettings\obj\Debug\CommonSettings.csprojAssemblyReference.cache
+D:\00. Code\04. AIC Calibration Platform\OMS - 1210\CommonSettings\obj\Debug\CommonSettings.csproj.CoreCompileInputs.cache
+D:\00. Code\04. AIC Calibration Platform\OMS - 1210\CommonSettings\obj\Debug\CommonSettings.csproj.CopyComplete
+D:\00. Code\04. AIC Calibration Platform\OMS - 1210\CommonSettings\obj\Debug\CommonSettings.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1210\CommonSettings\obj\Debug\CommonSettings.pdb
+D:\人員資料夾\Cody\OMS - 1210\CommonSettings\bin\Debug\CommonSettings.dll
+D:\人員資料夾\Cody\OMS - 1210\CommonSettings\bin\Debug\CommonSettings.pdb
+D:\人員資料夾\Cody\OMS - 1210\CommonSettings\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\人員資料夾\Cody\OMS - 1210\CommonSettings\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+D:\人員資料夾\Cody\OMS - 1210\CommonSettings\bin\Debug\Microsoft.Analytics.Types.dll
+D:\人員資料夾\Cody\OMS - 1210\CommonSettings\obj\Debug\CommonSettings.csproj.AssemblyReference.cache
+D:\人員資料夾\Cody\OMS - 1210\CommonSettings\obj\Debug\CommonSettings.csproj.CoreCompileInputs.cache
+D:\人員資料夾\Cody\OMS - 1210\CommonSettings\obj\Debug\CommonSettings.csproj.CopyComplete
+D:\人員資料夾\Cody\OMS - 1210\CommonSettings\obj\Debug\CommonSettings.dll
+D:\人員資料夾\Cody\OMS - 1210\CommonSettings\obj\Debug\CommonSettings.pdb
+D:\Cody\Code\OMS\OMS - 1219_DEV\CommonSettings\bin\Debug\CommonSettings.dll
+D:\Cody\Code\OMS\OMS - 1219_DEV\CommonSettings\bin\Debug\CommonSettings.pdb
+D:\Cody\Code\OMS\OMS - 1219_DEV\CommonSettings\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\Cody\Code\OMS\OMS - 1219_DEV\CommonSettings\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+D:\Cody\Code\OMS\OMS - 1219_DEV\CommonSettings\bin\Debug\Microsoft.Analytics.Types.dll
+D:\Cody\Code\OMS\OMS - 1219_DEV\CommonSettings\obj\Debug\CommonSettings.csproj.AssemblyReference.cache
+D:\Cody\Code\OMS\OMS - 1219_DEV\CommonSettings\obj\Debug\CommonSettings.csproj.CoreCompileInputs.cache
+D:\Cody\Code\OMS\OMS - 1219_DEV\CommonSettings\obj\Debug\CommonSe.65374D05.Up2Date
+D:\Cody\Code\OMS\OMS - 1219_DEV\CommonSettings\obj\Debug\CommonSettings.dll
+D:\Cody\Code\OMS\OMS - 1219_DEV\CommonSettings\obj\Debug\CommonSettings.pdb

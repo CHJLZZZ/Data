@@ -1,0 +1,8 @@
+D:\work\Tool\19_OpticalMeasureTool\銘章_HotPixel\CudaCore\CudaCore\x64\Release\CudaCore.vcxproj.CopyComplete
+D:\work\Tool\19_OpticalMeasureTool\銘章_HotPixel\CudaCore\CudaCore\x64\Release\CudaCore.vcxproj.AssemblyReference.cache
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\CudaCore\x64\Release\CudaCore.vcxproj.CopyComplete
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\CudaCore\x64\Release\CudaCore.vcxproj.AssemblyReference.cache
+D:\0607_Rick test\Optical Measurement System\CudaCore\x64\Release\CudaCore.vcxproj.CopyComplete
+D:\0607_Rick test\Optical Measurement System\CudaCore\x64\Release\CudaCore.vcxproj.AssemblyReference.cache
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\CudaCore\x64\Release\CudaCore.vcxproj.AssemblyReference.cache
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\CudaCore\x64\Release\CudaCore.vcxproj.CopyComplete

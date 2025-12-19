@@ -1,0 +1,74 @@
+D:\【Code】\開發 (備份)\自主開發量測頭\Offline\TransferAOI - Lum_Spec(Ver 0812) - Ali\CudaCore\x64\Debug\CudaCore.vcxprojAssemblyReference.cache
+D:\05. Optical Measurement System\CudaCore\x64\Debug\CudaCore.vcxproj.AssemblyReference.cache
+D:\05. Optical Measurement System\Optical Measurement System\CudaCore\x64\Debug\CudaCore.vcxproj.AssemblyReference.cache
+D:\Jack\Optical Measurement System\CudaCore\x64\Debug\CudaCore.vcxproj.AssemblyReference.cache
+D:\Optical Measurement System\CudaCore\x64\Debug\CudaCore.vcxproj.AssemblyReference.cache
+D:\Optical Measurement System\CudaCore\x64\Debug\CudaCore.vcxproj.CopyComplete
+D:\0607_Rick test\Optical Measurement System\CudaCore\x64\Debug\CudaCore.vcxproj.CopyComplete
+D:\work\Tool\33_AIC_光學量測頭\TAF  實驗室驗證_程式版本\Optical Measurement System\CudaCore\x64\Debug\CudaCore.vcxproj.CopyComplete
+H:\Optical Measurement System\CudaCore\x64\Debug\CudaCore.vcxproj.CopyComplete
+H:\Optical Measurement System\CudaCore\x64\Debug\CudaCore.vcxproj.AssemblyReference.cache
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System_20231114\CudaCore\x64\Debug\CudaCore.vcxproj.AssemblyReference.cache
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System_20231114\CudaCore\x64\Debug\CudaCore.vcxproj.CopyComplete
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\CudaCore\x64\Debug\CudaCore.vcxproj.CopyComplete
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\CudaCore\x64\Debug\CudaCore.vcxproj.CopyComplete
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\CudaCore\x64\Debug\CudaCore.vcxproj.AssemblyReference.cache
+E:\Work\Optical Measurement System_20240508_1452_AIL\Optical Measurement System\CudaCore\x64\Debug\CudaCore.vcxproj.AssemblyReference.cache
+E:\Work\Optical Measurement System_20240508_1452_AIL\Optical Measurement System\CudaCore\x64\Debug\CudaCore.vcxproj.CopyComplete
+E:\Work\Optical Measurement System_20240508_1617_AIL\Optical Measurement System\CudaCore\x64\Debug\CudaCore.vcxproj.AssemblyReference.cache
+E:\Work\Optical Measurement System_20240508_1617_AIL\Optical Measurement System\CudaCore\x64\Debug\CudaCore.vcxproj.CopyComplete
+E:\Work\Optical Measurement System_20240508_1632_AIL\Optical Measurement System\CudaCore\x64\Debug\CudaCore.vcxproj.CopyComplete
+D:\Work\Source code\Optical Measurement System\CudaCore\x64\Debug\CudaCore.vcxproj.AssemblyReference.cache
+D:\Work\Source code\Optical Measurement System\CudaCore\x64\Debug\CudaCore.vcxproj.CopyComplete
+D:\00. Code\校驗平台\OMS\CudaCore\x64\Debug\CudaCore.vcxproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 0527\CudaCore\x64\Debug\CudaCore.vcxprojAssemblyReference.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0527\CudaCore\x64\Debug\CudaCore.vcxproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 0528\CudaCore\x64\Debug\CudaCore.vcxproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 0528\CudaCore\x64\Debug\CudaCore.vcxprojAssemblyReference.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0603\CudaCore\x64\Debug\CudaCore.vcxproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 0603\CudaCore\x64\Debug\CudaCore.vcxprojAssemblyReference.cache
+D:\OMS - 0603\CudaCore\x64\Debug\CudaCore.vcxproj.CopyComplete
+D:\Cody\Cody_OMS - 0701\CudaCore\x64\Debug\CudaCore.vcxproj.CopyComplete
+D:\Cody\Cody_OMS - 0701\CudaCore\x64\Debug\CudaCore.vcxproj.AssemblyReference.cache
+D:\00. Code\AIC Calibration Platform\Cody_OMS - 0701\CudaCore\x64\Debug\CudaCore.vcxprojAssemblyReference.cache
+D:\00. Code\AIC Calibration Platform\Cody_OMS - 0701\CudaCore\x64\Debug\CudaCore.vcxproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 0912\CudaCore\x64\Debug\CudaCore.vcxproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 0913\CudaCore\x64\Debug\CudaCore.vcxprojAssemblyReference.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0913\CudaCore\x64\Debug\CudaCore.vcxproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 0918\CudaCore\x64\Debug\CudaCore.vcxproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 0918\CudaCore\x64\Debug\CudaCore.vcxprojAssemblyReference.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0923\CudaCore\x64\Debug\CudaCore.vcxproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 0924\CudaCore\x64\Debug\CudaCore.vcxproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 0924\CudaCore\x64\Debug\CudaCore.vcxprojAssemblyReference.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0925\CudaCore\x64\Debug\CudaCore.vcxprojAssemblyReference.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0925\CudaCore\x64\Debug\CudaCore.vcxproj.CopyComplete
+D:\Cody\OMS - 0925\CudaCore\x64\Debug\CudaCore.vcxproj.CopyComplete
+D:\Cody\OMS - 0925\CudaCore\x64\Debug\CudaCore.vcxproj.AssemblyReference.cache
+D:\Cody\OMS - 1009\CudaCore\x64\Debug\CudaCore.vcxproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 1009\CudaCore\x64\Debug\CudaCore.vcxprojAssemblyReference.cache
+D:\00. Code\AIC Calibration Platform\OMS - 1009\CudaCore\x64\Debug\CudaCore.vcxproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 1017\CudaCore\x64\Debug\CudaCore.vcxproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 1017\CudaCore\x64\Debug\CudaCore.vcxprojAssemblyReference.cache
+D:\00. Code\AIC Calibration Platform\OMS - 1022\CudaCore\x64\Debug\CudaCore.vcxproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 1022\CudaCore\x64\Debug\CudaCore.vcxprojAssemblyReference.cache
+D:\00. Code\AIC Calibration Platform\OMS - 1022 (Mdisplay)\CudaCore\x64\Debug\CudaCore.vcxproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 1022 (Mdisplay)\CudaCore\x64\Debug\CudaCore.vcxprojAssemblyReference.cache
+D:\Cody\OMS - 1025\OMS - 1022 (Mdisplay)\CudaCore\x64\Debug\CudaCore.vcxproj.AssemblyReference.cache
+D:\Cody\OMS - 1025\OMS - 1022 (Mdisplay)\CudaCore\x64\Debug\CudaCore.vcxproj.CopyComplete
+D:\Cody\OMS - 1101\OMS - 1101\CudaCore\x64\Debug\CudaCore.vcxproj.CopyComplete
+D:\Cody\OMS - 1101\OMS - 1101\CudaCore\x64\Debug\CudaCore.vcxproj.AssemblyReference.cache
+D:\Cody\OMS - 1101 - 複製\OMS - 1101\CudaCore\x64\Debug\CudaCore.vcxproj.AssemblyReference.cache
+D:\Cody\OMS - 1101 - 複製\OMS - 1101\CudaCore\x64\Debug\CudaCore.vcxproj.CopyComplete
+D:\Cody\OMS - 1101 - V Curve\OMS - 1101\CudaCore\x64\Debug\CudaCore.vcxproj.CopyComplete
+D:\Cody\OMS - 1101 - V Curve\OMS - 1101\CudaCore\x64\Debug\CudaCore.vcxproj.AssemblyReference.cache
+D:\00. Code\AIC Calibration Platform\OMS - 1111\OMS - 1111\CudaCore\x64\Debug\CudaCore.vcxproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 1111\OMS - 1111\CudaCore\x64\Debug\CudaCore.vcxprojAssemblyReference.cache
+D:\Cody\OMS - 1111 (優化)\CudaCore\x64\Debug\CudaCore.vcxproj.CopyComplete
+D:\Cody\OMS - 1111 (優化)\CudaCore\x64\Debug\CudaCore.vcxproj.AssemblyReference.cache
+D:\Cody\OMS - 1111 (優化) - 複製\CudaCore\x64\Debug\CudaCore.vcxproj.CopyComplete
+D:\Cody\OMS - 1111 (優化) - 複製\CudaCore\x64\Debug\CudaCore.vcxproj.AssemblyReference.cache
+D:\Cody\OMS - 1121\CudaCore\x64\Debug\CudaCore.vcxproj.AssemblyReference.cache
+D:\Cody\OMS - 1121\CudaCore\x64\Debug\CudaCore.vcxproj.CopyComplete
+D:\Cody\OMS - 1217\CudaCore\x64\Debug\CudaCore.vcxproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 0107\CudaCore\x64\Debug\CudaCore.vcxproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 0107\CudaCore\x64\Debug\CudaCore.vcxprojAssemblyReference.cache

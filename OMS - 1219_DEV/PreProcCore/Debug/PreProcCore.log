@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(2106,5): warning MSB3270: 所建置之專案的處理器架構 "x86" 與參考 "Matrox.MatroxImagingLibrary" 的處理器架構 "AMD64" 不相符。這可能會導致執行階段失敗。請考慮透過組態管理員變更專案的目標處理器架構，使專案與參考之間的處理器架構相對應，或者使用符合專案目標處理器架構之處理器架構的參考相依性。
+  pch.cpp
+  D:\Cody\OMS - 0318 Lab Test\PreProcCore\pch.cpp: fatal error C1192: #using 不能用於 'D:\Cody\OMS - 0318 Lab Test\Debug\CudaCore.dll'
+          '系統找不到指定的檔案。'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(320,5): error MSB6006: "CL.exe" 以返回碼 2 結束。

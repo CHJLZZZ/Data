@@ -1,0 +1,95 @@
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\LightMeasure\bin\Debug\LightMeasure.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\LightMeasure\bin\Debug\LightMeasure.pdb
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\LightMeasure\bin\Debug\CommonBase.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\LightMeasure\bin\Debug\Matrox.MatroxImagingLibrary.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\LightMeasure\bin\Debug\Matrox.MatroxImagingLibrary.xml
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\LightMeasure\obj\Debug\LightMeasure.csproj.CoreCompileInputs.cache
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\LightMeasure\obj\Debug\LightMeasure.csproj.CopyComplete
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\LightMeasure\obj\Debug\LightMeasure.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\LightMeasure\obj\Debug\LightMeasure.pdb
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\LightMeasure\obj\Debug\LightMeasure.csproj.GenerateResource.cache
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\LightMeasure\obj\Debug\LightMeasure.MeasRecipeSettingControl.resources
+D:\Cody\OMS - 0305\LightMeasure\bin\Debug\LightMeasure.dll
+D:\Cody\OMS - 0305\LightMeasure\bin\Debug\LightMeasure.pdb
+D:\Cody\OMS - 0305\LightMeasure\bin\Debug\BaseTool.dll
+D:\Cody\OMS - 0305\LightMeasure\bin\Debug\CommonBase.dll
+D:\Cody\OMS - 0305\LightMeasure\bin\Debug\Matrox.MatroxImagingLibrary.dll
+D:\Cody\OMS - 0305\LightMeasure\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Cody\OMS - 0305\LightMeasure\bin\Debug\BaseTool.pdb
+D:\Cody\OMS - 0305\LightMeasure\obj\Debug\LightMeasure.csprojAssemblyReference.cache
+D:\Cody\OMS - 0305\LightMeasure\obj\Debug\LightMeasure.csproj.CoreCompileInputs.cache
+D:\Cody\OMS - 0305\LightMeasure\obj\Debug\LightMeasure.csproj.CopyComplete
+D:\Cody\OMS - 0305\LightMeasure\obj\Debug\LightMeasure.dll
+D:\Cody\OMS - 0305\LightMeasure\obj\Debug\LightMeasure.pdb
+D:\Cody\OMS - 0318 Lab Test\LightMeasure\bin\Debug\LightMeasure.dll
+D:\Cody\OMS - 0318 Lab Test\LightMeasure\bin\Debug\LightMeasure.pdb
+D:\Cody\OMS - 0318 Lab Test\LightMeasure\bin\Debug\BaseTool.dll
+D:\Cody\OMS - 0318 Lab Test\LightMeasure\bin\Debug\CommonBase.dll
+D:\Cody\OMS - 0318 Lab Test\LightMeasure\bin\Debug\Matrox.MatroxImagingLibrary.dll
+D:\Cody\OMS - 0318 Lab Test\LightMeasure\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Cody\OMS - 0318 Lab Test\LightMeasure\bin\Debug\BaseTool.pdb
+D:\Cody\OMS - 0318 Lab Test\LightMeasure\obj\Debug\LightMeasure.csprojAssemblyReference.cache
+D:\Cody\OMS - 0318 Lab Test\LightMeasure\obj\Debug\LightMeasure.csproj.CoreCompileInputs.cache
+D:\Cody\OMS - 0318 Lab Test\LightMeasure\obj\Debug\LightMeasure.csproj.CopyComplete
+D:\Cody\OMS - 0318 Lab Test\LightMeasure\obj\Debug\LightMeasure.dll
+D:\Cody\OMS - 0318 Lab Test\LightMeasure\obj\Debug\LightMeasure.pdb
+D:\Cody\OMS - 0319 Lab Test\LightMeasure\bin\Debug\LightMeasure.dll
+D:\Cody\OMS - 0319 Lab Test\LightMeasure\bin\Debug\LightMeasure.pdb
+D:\Cody\OMS - 0319 Lab Test\LightMeasure\bin\Debug\BaseTool.dll
+D:\Cody\OMS - 0319 Lab Test\LightMeasure\bin\Debug\CommonBase.dll
+D:\Cody\OMS - 0319 Lab Test\LightMeasure\bin\Debug\Matrox.MatroxImagingLibrary.dll
+D:\Cody\OMS - 0319 Lab Test\LightMeasure\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Cody\OMS - 0319 Lab Test\LightMeasure\bin\Debug\BaseTool.pdb
+D:\Cody\OMS - 0319 Lab Test\LightMeasure\obj\Debug\LightMeasure.csprojAssemblyReference.cache
+D:\Cody\OMS - 0319 Lab Test\LightMeasure\obj\Debug\LightMeasure.csproj.CoreCompileInputs.cache
+D:\Cody\OMS - 0319 Lab Test\LightMeasure\obj\Debug\LightMeasure.csproj.CopyComplete
+D:\Cody\OMS - 0319 Lab Test\LightMeasure\obj\Debug\LightMeasure.dll
+D:\Cody\OMS - 0319 Lab Test\LightMeasure\obj\Debug\LightMeasure.pdb
+D:\00. Code\AIC Calibration Platform\OMS - 0320\LightMeasure\bin\Debug\LightMeasure.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0320\LightMeasure\bin\Debug\LightMeasure.pdb
+D:\00. Code\AIC Calibration Platform\OMS - 0320\LightMeasure\bin\Debug\BaseTool.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0320\LightMeasure\bin\Debug\CommonBase.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0320\LightMeasure\bin\Debug\Matrox.MatroxImagingLibrary.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0320\LightMeasure\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0320\LightMeasure\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0320\LightMeasure\bin\Debug\System.Memory.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0320\LightMeasure\bin\Debug\System.Buffers.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0320\LightMeasure\bin\Debug\System.Numerics.Vectors.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0320\LightMeasure\bin\Debug\BaseTool.pdb
+D:\00. Code\AIC Calibration Platform\OMS - 0320\LightMeasure\obj\Debug\LightMeasure.csprojAssemblyReference.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0320\LightMeasure\obj\Debug\LightMeasure.csproj.CoreCompileInputs.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0320\LightMeasure\obj\Debug\LightMeasure.csproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 0320\LightMeasure\obj\Debug\LightMeasure.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0320\LightMeasure\obj\Debug\LightMeasure.pdb
+D:\00. Code\AIC Calibration Platform\OMS - 0321\LightMeasure\bin\Debug\LightMeasure.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0321\LightMeasure\bin\Debug\LightMeasure.pdb
+D:\00. Code\AIC Calibration Platform\OMS - 0321\LightMeasure\bin\Debug\BaseTool.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0321\LightMeasure\bin\Debug\CommonBase.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0321\LightMeasure\bin\Debug\Matrox.MatroxImagingLibrary.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0321\LightMeasure\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0321\LightMeasure\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0321\LightMeasure\bin\Debug\System.Memory.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0321\LightMeasure\bin\Debug\System.Buffers.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0321\LightMeasure\bin\Debug\System.Numerics.Vectors.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0321\LightMeasure\bin\Debug\BaseTool.pdb
+D:\00. Code\AIC Calibration Platform\OMS - 0321\LightMeasure\obj\Debug\LightMeasure.csprojAssemblyReference.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0321\LightMeasure\obj\Debug\LightMeasure.csproj.CoreCompileInputs.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0321\LightMeasure\obj\Debug\LightMeasure.csproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 0321\LightMeasure\obj\Debug\LightMeasure.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0321\LightMeasure\obj\Debug\LightMeasure.pdb
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\LightMeasure\bin\Debug\LightMeasure.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\LightMeasure\bin\Debug\LightMeasure.pdb
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\LightMeasure\bin\Debug\BaseTool.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\LightMeasure\bin\Debug\CommonBase.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\LightMeasure\bin\Debug\Matrox.MatroxImagingLibrary.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\LightMeasure\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\LightMeasure\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\LightMeasure\bin\Debug\System.Memory.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\LightMeasure\bin\Debug\System.Buffers.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\LightMeasure\bin\Debug\System.Numerics.Vectors.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\LightMeasure\bin\Debug\BaseTool.pdb
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\LightMeasure\obj\Debug\LightMeasure.csprojAssemblyReference.cache
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\LightMeasure\obj\Debug\LightMeasure.csproj.CoreCompileInputs.cache
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\LightMeasure\obj\Debug\LightMeasure.csproj.CopyComplete
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\LightMeasure\obj\Debug\LightMeasure.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\LightMeasure\obj\Debug\LightMeasure.pdb

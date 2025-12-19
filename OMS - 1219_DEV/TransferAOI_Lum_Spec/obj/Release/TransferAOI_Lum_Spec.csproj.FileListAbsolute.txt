@@ -1,0 +1,391 @@
+D:\05. Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\TransferAOI_Lum_Spec.csproj.AssemblyReference.cache
+D:\05. Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\TransferAOI_Lum_Spec._29M_Test_Form.resources
+D:\05. Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\TransferAOI_Lum_Spec.frmAlignmentSetting.resources
+D:\05. Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\TransferAOI_Lum_Spec.frmMcmqSetting.resources
+D:\05. Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\TransferAOI_Lum_Spec.frmWarpSetting.resources
+D:\05. Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\TransferAOI_Lum_Spec.PanelDataSetting.resources
+D:\05. Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\TransferAOI_Lum_Spec.PG_CtrlTool.resources
+D:\05. Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\TransferAOI_Lum_Spec.LumResultForm.resources
+D:\05. Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\TransferAOI_Lum_Spec.frm29MSetting.resources
+D:\05. Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\TransferAOI_Lum_Spec.MarkTeachTool.resources
+D:\05. Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\TransferAOI_Lum_Spec.frmLogin.resources
+D:\05. Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\TransferAOI_Lum_Spec.frmMain.resources
+D:\05. Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\TransferAOI_Lum_Spec.frmSR5100Setting.resources
+D:\05. Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\TransferAOI_Lum_Spec.frmSystemSetting.resources
+D:\05. Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\TransferAOI_Lum_Spec.frmUserEdit.resources
+D:\05. Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\TransferAOI_Lum_Spec.frmUserManage.resources
+D:\05. Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\TransferAOI_Lum_Spec.Properties.Resources.resources
+D:\05. Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\TransferAOI_Lum_Spec.frmUA200ASetting.resources
+D:\05. Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\TransferAOI_Lum_Spec.csproj.GenerateResource.cache
+D:\05. Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\TransferAOI_Lum_Spec.csproj.CoreCompileInputs.cache
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\dll\x86\OpenCvSharpExtern.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\dll\x86\opencv_videoio_ffmpeg455.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\dll\x64\OpenCvSharpExtern.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\dll\x64\opencv_videoio_ffmpeg455_64.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Optical Measuring System.exe.config
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Optical Measuring System.exe
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Optical Measuring System.pdb
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\AASDll.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\ASCOM.DeviceInterfaces.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\ASCOM.DriverAccess.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\ASCOM.Utilities.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Basler.Pylon.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\CommonBase.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Config.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\CsvHelper.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\DimmerLibrary.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\DocumentFormat.OpenXml.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Emgu.CV.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\FTP_Ctrl.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\GigEGrab.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\HsApiNet.DLL
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Interfaces.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\LightMeasure.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\MaterialSkin.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Matrox.MatroxImagingLibrary.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\McmqAgent.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\McmqApi.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\OpenCvSharp.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\OpticalMeasuringSystem.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\PreProcCore.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\PylonC.NET.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\PylonC.NETSupportLibrary.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\SubSystemControl.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.Buffers.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.Memory.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.Numerics.Vectors.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\ua_core4_net.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Config.pdb
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\GigEGrab.pdb
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\GigEGrab.xml
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\GigEGrab.dll.config
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\OpticalMeasuringSystem.pdb
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\LightMeasure.pdb
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\DocumentFormat.OpenXml.xml
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Emgu.CV.xml
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\ICSharpCode.SharpZipLib.pdb
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\ICSharpCode.SharpZipLib.xml
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\OpenCvSharp.xml
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.Buffers.xml
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.Memory.xml
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.Numerics.Vectors.xml
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\TransferAOI_Lum_Spec.csproj.AssemblyReference.cache
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\Optical Measuring System.g.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmBootConfigSetting.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmMeasurePatternSetting.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmSetDataName.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.ManualForm.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.Frm.frmAboutAUO.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmOneColorCorrection.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmFourColorMatrixMethod.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.Frm.frmOther.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmProcessInfoSetting.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.PG_CtrlTool.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmParamSetting.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmLogin.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmMain.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmSystemSetting.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmUserEdit.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmUserManage.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.Properties.Resources.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\TransferAOI_Lum_Spec.csproj.GenerateResource.cache
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\TransferAOI_Lum_Spec.csproj.CoreCompileInputs.cache
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\TransferAOI_Lum_Spec.csproj.CopyComplete
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\Optical Measuring System.exe
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\Optical Measuring System.pdb
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmGetLumCxCyFilePath.resources
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\dll\x86\OpenCvSharpExtern.dll
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\dll\x86\opencv_videoio_ffmpeg455.dll
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\dll\x64\OpenCvSharpExtern.dll
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\dll\x64\opencv_videoio_ffmpeg455_64.dll
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Optical Measuring System.exe.config
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Optical Measuring System.exe
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Optical Measuring System.pdb
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\AASDll.dll
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\ASCOM.DeviceInterfaces.dll
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\ASCOM.DriverAccess.dll
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\ASCOM.Utilities.dll
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Basler.Pylon.dll
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\CommonBase.dll
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Config.dll
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\CsvHelper.dll
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\DimmerLibrary.dll
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\DocumentFormat.OpenXml.dll
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Emgu.CV.dll
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\FTP_Ctrl.dll
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\GigEGrab.dll
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\HsApiNet.DLL
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Interfaces.dll
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\LightMeasure.dll
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\MaterialSkin.dll
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Matrox.MatroxImagingLibrary.dll
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\McmqAgent.dll
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\McmqApi.dll
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\OpenCvSharp.dll
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\OpticalMeasuringSystem.dll
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\PreProcCore.dll
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\PylonC.NET.dll
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\PylonC.NETSupportLibrary.dll
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\SubSystemControl.dll
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.Buffers.dll
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.Memory.dll
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.Numerics.Vectors.dll
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\ua_core4_net.dll
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Config.pdb
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\GigEGrab.pdb
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\GigEGrab.xml
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\GigEGrab.dll.config
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\OpticalMeasuringSystem.pdb
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\LightMeasure.pdb
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\DocumentFormat.OpenXml.xml
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Emgu.CV.xml
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\ICSharpCode.SharpZipLib.pdb
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\ICSharpCode.SharpZipLib.xml
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\OpenCvSharp.xml
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.Buffers.xml
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.Memory.xml
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.Numerics.Vectors.xml
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\TransferAOI_Lum_Spec.csproj.AssemblyReference.cache
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\Optical Measuring System.exe.config
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\Optical Measuring System.g.resources
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmBootConfigSetting.resources
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmGetLumCxCyFilePath.resources
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmMeasurePatternSetting.resources
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmSetDataName.resources
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.ManualForm.resources
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.Frm.frmAboutAUO.resources
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmOneColorCorrection.resources
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmFourColorMatrixMethod.resources
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.Frm.frmOther.resources
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmProcessInfoSetting.resources
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.PG_CtrlTool.resources
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmParamSetting.resources
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmLogin.resources
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmMain.resources
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmSystemSetting.resources
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmUserEdit.resources
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmUserManage.resources
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.Properties.Resources.resources
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\TransferAOI_Lum_Spec.csproj.GenerateResource.cache
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\TransferAOI_Lum_Spec.csproj.CoreCompileInputs.cache
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\TransferAOI_Lum_Spec.csproj.CopyComplete
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\Optical Measuring System.exe
+D:\0607_Rick test\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\Optical Measuring System.pdb
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\TransferAOI_Lum_Spec.csprojAssemblyReference.cache
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\Optical Measuring System.exe.config
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\Optical Measuring System.g.resources
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmBootConfigSetting.resources
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.Frm.frmCommand.resources
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmGetLumCxCyFilePath.resources
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmMeasurePatternSetting.resources
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmSetDataName.resources
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.ManualForm.resources
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.Frm.frmAboutAUO.resources
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmOneColorCorrection.resources
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmFourColorMatrixMethod.resources
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.Frm.frmOther.resources
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmProcessInfoSetting.resources
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.PG_CtrlTool.resources
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmParamSetting.resources
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmLogin.resources
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmMain.resources
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmSystemSetting.resources
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmUserEdit.resources
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmUserManage.resources
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.Properties.Resources.resources
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\TransferAOI_Lum_Spec.csproj.GenerateResource.cache
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\TransferAOI_Lum_Spec.csproj.CoreCompileInputs.cache
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\Optical Measuring System.exe
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\Optical Measuring System.pdb
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\dll\x86\OpenCvSharpExtern.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\dll\x86\opencv_videoio_ffmpeg455.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\dll\x64\OpenCvSharpExtern.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\dll\x64\opencv_videoio_ffmpeg455_64.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Optical Measuring System.exe.config
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Optical Measuring System.exe
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Optical Measuring System.pdb
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\AASDll.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\ASCOM.DeviceInterfaces.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\ASCOM.DriverAccess.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\ASCOM.Utilities.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Basler.Pylon.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\CommonBase.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Config.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\CsvHelper.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\DimmerLibrary.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\DocumentFormat.OpenXml.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Emgu.CV.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\FTP_Ctrl.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\GigEGrab.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\HsApiNet.DLL
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Interfaces.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\IPCore.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\LightMeasure.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\MaterialSkin.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Matrox.MatroxImagingLibrary.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\McmqAgent.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\McmqApi.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\OpenCvSharp.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\OpticalMeasuringSystem.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\PatGen.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\PreProcCore.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\PylonC.NET.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\PylonC.NETSupportLibrary.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\SubSystemControl.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.Buffers.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.Memory.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.Numerics.Vectors.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\ua_core4_net.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\FrameGrabber.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\IPData.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\CudaCore.dll
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Config.pdb
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\GigEGrab.pdb
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\GigEGrab.xml
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\GigEGrab.dll.config
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\IPCore.pdb
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\OpticalMeasuringSystem.pdb
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\PatGen.pdb
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\LightMeasure.pdb
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\DocumentFormat.OpenXml.xml
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Emgu.CV.xml
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\ICSharpCode.SharpZipLib.pdb
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\ICSharpCode.SharpZipLib.xml
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\OpenCvSharp.xml
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.Buffers.xml
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.Memory.xml
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.Numerics.Vectors.xml
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\FrameGrabber.pdb
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\IPData.pdb
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\CudaCore.pdb
+D:\work\Rick\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\TransferAOI_Lum_Spec.csproj.CopyComplete
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\dll\x86\OpenCvSharpExtern.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\dll\x86\opencv_videoio_ffmpeg455.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\dll\x64\OpenCvSharpExtern.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\dll\x64\opencv_videoio_ffmpeg455_64.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Optical Measuring System.exe.config
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Optical Measuring System.exe
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Optical Measuring System.pdb
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\AASDll.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\ASCOM.DeviceInterfaces.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\ASCOM.DriverAccess.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\ASCOM.Utilities.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Basler.Pylon.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\CommonBase.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Config.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\CsvHelper.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\DimmerLibrary.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\DocumentFormat.OpenXml.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\DocumentFormat.OpenXml.Framework.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Emgu.CV.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\ExcelNumberFormat.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\FrameGrabber.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\FTP_Ctrl.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\GigEGrab.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\HsApiNet.DLL
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Interfaces.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\IPCore.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Irony.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\LightMeasure.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\MaterialSkin.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Matrox.MatroxImagingLibrary.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\McmqAgent.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\McmqApi.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\OpenCvSharp.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\OpticalMeasuringSystem.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\PatGen.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\PreProcCore.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\PylonC.NET.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\PylonC.NETSupportLibrary.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\SixLabors.Fonts.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\SubSystemControl.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.Buffers.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.IO.Packaging.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.Memory.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.Numerics.Vectors.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\ua_core4_net.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\XLParser.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\IPData.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\ClosedXML.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\CudaCore.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Config.pdb
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\FrameGrabber.pdb
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\GigEGrab.pdb
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\GigEGrab.xml
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\GigEGrab.dll.config
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\IPCore.pdb
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\IPCore.dll.config
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\OpticalMeasuringSystem.pdb
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\OpticalMeasuringSystem.dll.config
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\PatGen.pdb
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\LightMeasure.pdb
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\DocumentFormat.OpenXml.xml
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\DocumentFormat.OpenXml.Framework.xml
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Emgu.CV.xml
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\ExcelNumberFormat.xml
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\ICSharpCode.SharpZipLib.pdb
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\ICSharpCode.SharpZipLib.xml
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\OpenCvSharp.xml
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\SixLabors.Fonts.xml
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.Buffers.xml
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.IO.Packaging.xml
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.Memory.xml
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.Numerics.Vectors.xml
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\IPData.pdb
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\IPData.dll.config
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\ClosedXML.xml
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\Release\CudaCore.pdb
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\TransferAOI_Lum_Spec.csproj.AssemblyReference.cache
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\Optical Measuring System.g.resources
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmBootConfigSetting.resources
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.Frm.frmCommand.resources
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmDemoExample.resources
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmGetLumCxCyFilePath.resources
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmMeasurePatternSetting.resources
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmSetDataName.resources
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.ManualForm.resources
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.Frm.frmAboutAUO.resources
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmOneColorCorrection.resources
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmFourColorMatrixMethod.resources
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmProcessInfoSetting.resources
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.PG_CtrlTool.resources
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmParamSetting.resources
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmLogin.resources
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmMain.resources
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmSystemSetting.resources
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmUserEdit.resources
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.frmUserManage.resources
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\OpticalMeasuringSystem.Properties.Resources.resources
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\TransferAOI_Lum_Spec.csproj.GenerateResource.cache
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\TransferAOI_Lum_Spec.csproj.CoreCompileInputs.cache
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\TransferAOI_Lum_Spec.csproj.CopyComplete
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\Optical Measuring System.exe
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\Release\Optical Measuring System.pdb

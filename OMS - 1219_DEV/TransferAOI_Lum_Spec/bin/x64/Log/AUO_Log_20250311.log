@@ -1,0 +1,69 @@
+2025/03/11 09:38:31  ,  ============== LOG START v2025.03.10.01 ============== 
+2025/03/11 09:39:50  ,  ============== LOG END v2025.03.10.01 ============== 
+2025/03/11 13:50:00  ,  ============== LOG START v2025.03.10.01 ============== 
+2025/03/11 14:06:37  , [btnGetTcpPosition] System.OverflowException: 數值對 Decimal 而言太大或太小。
+   於 System.Decimal..ctor(Double value)
+   於 UrRobotForm.RobotUnitForm.btnGetTcpPosition_Click(Object sender, EventArgs e) 於 D:\Cody\OMS Test (0311)\OMS - 0311 Lab\PrjUrRobotDemo\UrRobotForm\Form1.vb: 行 272
+2025/03/11 14:06:39  , [btnGetTcpPosition] System.OverflowException: 數值對 Decimal 而言太大或太小。
+   於 System.Decimal..ctor(Double value)
+   於 UrRobotForm.RobotUnitForm.btnGetTcpPosition_Click(Object sender, EventArgs e) 於 D:\Cody\OMS Test (0311)\OMS - 0311 Lab\PrjUrRobotDemo\UrRobotForm\Form1.vb: 行 272
+2025/03/11 14:06:48  ,  ============== LOG END v2025.03.10.01 ============== 
+2025/03/11 14:06:50  ,  ============== LOG START v2025.03.10.01 ============== 
+2025/03/11 14:06:52  , [btnGetTcpPosition] System.OverflowException: 數值對 Decimal 而言太大或太小。
+   於 System.Decimal..ctor(Double value)
+   於 UrRobotForm.RobotUnitForm.btnGetTcpPosition_Click(Object sender, EventArgs e) 於 D:\Cody\OMS Test (0311)\OMS - 0311 Lab\PrjUrRobotDemo\UrRobotForm\Form1.vb: 行 272
+2025/03/11 14:07:44  , [btnGetTcpPosition] System.OverflowException: 數值對 Decimal 而言太大或太小。
+   於 System.Decimal..ctor(Double value)
+   於 UrRobotForm.RobotUnitForm.btnGetTcpPosition_Click(Object sender, EventArgs e) 於 D:\Cody\OMS Test (0311)\OMS - 0311 Lab\PrjUrRobotDemo\UrRobotForm\Form1.vb: 行 272
+2025/03/11 14:08:15  , [btnGetTcpPosition] System.OverflowException: 數值對 Decimal 而言太大或太小。
+   於 System.Decimal..ctor(Double value)
+   於 System.Convert.ToDecimal(Double value)
+   於 UrRobotForm.RobotUnitForm.btnGetTcpPosition_Click(Object sender, EventArgs e)
+2025/03/11 14:08:21  , [btnGetTcpPosition] System.OverflowException: 數值對 Decimal 而言太大或太小。
+   於 System.Decimal..ctor(Double value)
+   於 System.Convert.ToDecimal(Double value)
+   於 UrRobotForm.RobotUnitForm.btnGetTcpPosition_Click(Object sender, EventArgs e)
+2025/03/11 14:08:28  ,  ============== LOG END v2025.03.10.01 ============== 
+2025/03/11 14:09:05  ,  ============== LOG START v2025.03.10.01 ============== 
+2025/03/11 14:10:43  ,  ============== LOG END v2025.03.10.01 ============== 
+2025/03/11 14:10:44  ,  ============== LOG START v2025.03.10.01 ============== 
+2025/03/11 14:10:46  , [btnGetTcpPosition] System.InvalidCastException: 從字串 "Warning" 至類型 'Integer' 的轉換是無效的。 ---> System.FormatException: 輸入字串格式不正確。
+   於 Microsoft.VisualBasic.CompilerServices.Conversions.ParseDouble(String Value, NumberFormatInfo NumberFormat)
+   於 Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   --- 內部例外狀況堆疊追蹤的結尾 ---
+   於 Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   於 UrRobotForm.RobotUnitForm.btnGetTcpPosition_Click(Object sender, EventArgs e)
+2025/03/11 14:10:55  , [btnGetTcpPosition] System.InvalidCastException: 從字串 "Warning" 至類型 'Integer' 的轉換是無效的。 ---> System.FormatException: 輸入字串格式不正確。
+   於 Microsoft.VisualBasic.CompilerServices.Conversions.ParseDouble(String Value, NumberFormatInfo NumberFormat)
+   於 Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   --- 內部例外狀況堆疊追蹤的結尾 ---
+   於 Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   於 UrRobotForm.RobotUnitForm.btnGetTcpPosition_Click(Object sender, EventArgs e)
+2025/03/11 14:10:57  ,  ============== LOG END v2025.03.10.01 ============== 
+2025/03/11 14:11:10  ,  ============== LOG START v2025.03.10.01 ============== 
+2025/03/11 14:11:15  , [btnGetTcpPosition] System.OverflowException: 數值對 Decimal 而言太大或太小。
+   於 System.Decimal..ctor(Double value)
+   於 System.Convert.ToDecimal(Double value)
+   於 UrRobotForm.RobotUnitForm.btnGetTcpPosition_Click(Object sender, EventArgs e)
+2025/03/11 14:11:53  , [btnGetTcpPosition] System.OverflowException: 數值對 Decimal 而言太大或太小。
+   於 System.Decimal..ctor(Double value)
+   於 System.Convert.ToDecimal(Double value)
+   於 UrRobotForm.RobotUnitForm.btnGetTcpPosition_Click(Object sender, EventArgs e)
+2025/03/11 14:13:07  , [btnGetTcpPosition] System.OverflowException: 數值對 Decimal 而言太大或太小。
+   於 System.Decimal..ctor(Double value)
+   於 System.Convert.ToDecimal(Double value)
+   於 UrRobotForm.RobotUnitForm.btnGetTcpPosition_Click(Object sender, EventArgs e)
+2025/03/11 14:13:13  ,  ============== LOG END v2025.03.10.01 ============== 
+2025/03/11 14:21:10  ,  ============== LOG START v2025.03.10.01 ============== 
+2025/03/11 14:21:19  , [btnGetTcpPosition] System.ArgumentOutOfRangeException: '-88597196136182600' 不是 'Value' 的有效值。'Value' 應該介於 'Minimum' 與 'Maximum' 之間。
+參數名稱: Value
+   於 System.Windows.Forms.NumericUpDown.set_Value(Decimal value)
+   於 UrRobotForm.RobotUnitForm.btnGetTcpPosition_Click(Object sender, EventArgs e) 於 D:\Cody\OMS Test (0311)\OMS - 0311 Lab\PrjUrRobotDemo\UrRobotForm\Form1.vb: 行 276
+2025/03/11 14:21:29  , [btnGetTcpPosition] System.ArgumentOutOfRangeException: '452.316274530197' 不是 'Value' 的有效值。'Value' 應該介於 'Minimum' 與 'Maximum' 之間。
+參數名稱: Value
+   於 System.Windows.Forms.NumericUpDown.set_Value(Decimal value)
+   於 UrRobotForm.RobotUnitForm.btnGetTcpPosition_Click(Object sender, EventArgs e)
+2025/03/11 14:47:29  ,  ============== LOG START v2025.03.10.01 ============== 
+2025/03/11 14:52:10  ,  ============== LOG END v2025.03.10.01 ============== 
+2025/03/11 14:52:32  ,  ============== LOG START v2025.03.10.01 ============== 
+2025/03/11 14:52:56  ,  ============== LOG END v2025.03.10.01 ============== 
