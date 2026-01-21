@@ -1,0 +1,277 @@
+D:\0607_Rick test\Optical Measurement System\Config\bin\Debug\Config.dll
+D:\0607_Rick test\Optical Measurement System\Config\bin\Debug\Config.pdb
+D:\0607_Rick test\Optical Measurement System\Config\obj\Debug\Config.BootConfigSettingControl.resources
+D:\0607_Rick test\Optical Measurement System\Config\obj\Debug\Config.MeasRecipeSettingControl.resources
+D:\0607_Rick test\Optical Measurement System\Config\obj\Debug\Config.csproj.GenerateResource.cache
+D:\0607_Rick test\Optical Measurement System\Config\obj\Debug\Config.csproj.CoreCompileInputs.cache
+D:\0607_Rick test\Optical Measurement System\Config\obj\Debug\Config.dll
+D:\0607_Rick test\Optical Measurement System\Config\obj\Debug\Config.pdb
+D:\work\Tool\33_AIC_光學量測頭\TAF  實驗室驗證_程式版本\Optical Measurement System\Config\bin\Debug\Config.dll
+D:\work\Tool\33_AIC_光學量測頭\TAF  實驗室驗證_程式版本\Optical Measurement System\Config\bin\Debug\Config.pdb
+D:\work\Tool\33_AIC_光學量測頭\TAF  實驗室驗證_程式版本\Optical Measurement System\Config\obj\Debug\Config.BootConfigSettingControl.resources
+D:\work\Tool\33_AIC_光學量測頭\TAF  實驗室驗證_程式版本\Optical Measurement System\Config\obj\Debug\Config.MeasRecipeSettingControl.resources
+D:\work\Tool\33_AIC_光學量測頭\TAF  實驗室驗證_程式版本\Optical Measurement System\Config\obj\Debug\Config.csproj.GenerateResource.cache
+D:\work\Tool\33_AIC_光學量測頭\TAF  實驗室驗證_程式版本\Optical Measurement System\Config\obj\Debug\Config.csproj.CoreCompileInputs.cache
+D:\work\Tool\33_AIC_光學量測頭\TAF  實驗室驗證_程式版本\Optical Measurement System\Config\obj\Debug\Config.dll
+D:\work\Tool\33_AIC_光學量測頭\TAF  實驗室驗證_程式版本\Optical Measurement System\Config\obj\Debug\Config.pdb
+H:\Optical Measurement System\Config\bin\Debug\Config.dll
+H:\Optical Measurement System\Config\bin\Debug\Config.pdb
+H:\Optical Measurement System\Config\obj\Debug\Config.BootConfigSettingControl.resources
+H:\Optical Measurement System\Config\obj\Debug\Config.MeasRecipeSettingControl.resources
+H:\Optical Measurement System\Config\obj\Debug\Config.csproj.GenerateResource.cache
+H:\Optical Measurement System\Config\obj\Debug\Config.csproj.CoreCompileInputs.cache
+H:\Optical Measurement System\Config\obj\Debug\Config.dll
+H:\Optical Measurement System\Config\obj\Debug\Config.pdb
+H:\Optical Measurement System\Config\obj\Debug\Config.csproj.AssemblyReference.cache
+D:\work\Rick\Luminance_版本\Optical Measurement System\Config\bin\Debug\Config.dll
+D:\work\Rick\Luminance_版本\Optical Measurement System\Config\bin\Debug\Config.pdb
+D:\work\Rick\Luminance_版本\Optical Measurement System\Config\obj\Debug\Config.BootConfigSettingControl.resources
+D:\work\Rick\Luminance_版本\Optical Measurement System\Config\obj\Debug\Config.MeasRecipeSettingControl.resources
+D:\work\Rick\Luminance_版本\Optical Measurement System\Config\obj\Debug\Config.csproj.GenerateResource.cache
+D:\work\Rick\Luminance_版本\Optical Measurement System\Config\obj\Debug\Config.csproj.CoreCompileInputs.cache
+D:\work\Rick\Luminance_版本\Optical Measurement System\Config\obj\Debug\Config.dll
+D:\work\Rick\Luminance_版本\Optical Measurement System\Config\obj\Debug\Config.pdb
+D:\work\Rick\新增資料夾\Optical Measurement System\Config\bin\Debug\Config.dll
+D:\work\Rick\新增資料夾\Optical Measurement System\Config\bin\Debug\Config.pdb
+D:\work\Rick\新增資料夾\Optical Measurement System\Config\obj\Debug\Config.BootConfigSettingControl.resources
+D:\work\Rick\新增資料夾\Optical Measurement System\Config\obj\Debug\Config.MeasRecipeSettingControl.resources
+D:\work\Rick\新增資料夾\Optical Measurement System\Config\obj\Debug\Config.csproj.GenerateResource.cache
+D:\work\Rick\新增資料夾\Optical Measurement System\Config\obj\Debug\Config.csproj.CoreCompileInputs.cache
+D:\work\Rick\新增資料夾\Optical Measurement System\Config\obj\Debug\Config.dll
+D:\work\Rick\新增資料夾\Optical Measurement System\Config\obj\Debug\Config.pdb
+D:\Work\Rick\Optical Measurement System\Config\bin\Debug\Config.dll
+D:\Work\Rick\Optical Measurement System\Config\bin\Debug\Config.pdb
+D:\Work\Rick\Optical Measurement System\Config\obj\Debug\Config.BootConfigSettingControl.resources
+D:\Work\Rick\Optical Measurement System\Config\obj\Debug\Config.MeasRecipeSettingControl.resources
+D:\Work\Rick\Optical Measurement System\Config\obj\Debug\Config.csproj.GenerateResource.cache
+D:\Work\Rick\Optical Measurement System\Config\obj\Debug\Config.csproj.CoreCompileInputs.cache
+D:\Work\Rick\Optical Measurement System\Config\obj\Debug\Config.dll
+D:\Work\Rick\Optical Measurement System\Config\obj\Debug\Config.pdb
+D:\work\Rick\Optical Measurement System\Config\obj\Debug\Config.csprojAssemblyReference.cache
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System_20231114\Config\bin\Debug\Config.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System_20231114\Config\bin\Debug\Config.pdb
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System_20231114\Config\obj\Debug\Config.csproj.AssemblyReference.cache
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System_20231114\Config\obj\Debug\Config.BootConfigSettingControl.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System_20231114\Config\obj\Debug\Config.MeasRecipeSettingControl.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System_20231114\Config\obj\Debug\Config.csproj.GenerateResource.cache
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System_20231114\Config\obj\Debug\Config.csproj.CoreCompileInputs.cache
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System_20231114\Config\obj\Debug\Config.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System_20231114\Config\obj\Debug\Config.pdb
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\Config\bin\Debug\Config.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\Config\bin\Debug\Config.pdb
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\Config\obj\Debug\Config.BootConfigSettingControl.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\Config\obj\Debug\Config.MeasRecipeSettingControl.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\Config\obj\Debug\Config.csproj.GenerateResource.cache
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\Config\obj\Debug\Config.csproj.CoreCompileInputs.cache
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\Config\obj\Debug\Config.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\Config\obj\Debug\Config.pdb
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\Config\bin\Debug\Config.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\Config\bin\Debug\Config.pdb
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\Config\bin\Debug\DocumentFormat.OpenXml.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\Config\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\Config\bin\Debug\DocumentFormat.OpenXml.xml
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\Config\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\Config\obj\Debug\Config.BootConfigSettingControl.resources
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\Config\obj\Debug\Config.MeasRecipeSettingControl.resources
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\Config\obj\Debug\Config.csproj.GenerateResource.cache
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\Config\obj\Debug\Config.csproj.CoreCompileInputs.cache
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\Config\obj\Debug\Config.csproj.CopyComplete
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\Config\obj\Debug\Config.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\Config\obj\Debug\Config.pdb
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\Config\obj\Debug\Config.csproj.AssemblyReference.cache
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\Config\bin\Debug\DocumentFormat.OpenXml.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\Config\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\Config\bin\Debug\DocumentFormat.OpenXml.xml
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\Config\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\Config\obj\Debug\Config.csproj.CopyComplete
+E:\Work\Optical Measurement System_20240508_1452_AIL\Optical Measurement System\Config\bin\Debug\Config.dll
+E:\Work\Optical Measurement System_20240508_1452_AIL\Optical Measurement System\Config\bin\Debug\Config.pdb
+E:\Work\Optical Measurement System_20240508_1452_AIL\Optical Measurement System\Config\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Work\Optical Measurement System_20240508_1452_AIL\Optical Measurement System\Config\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+E:\Work\Optical Measurement System_20240508_1452_AIL\Optical Measurement System\Config\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Work\Optical Measurement System_20240508_1452_AIL\Optical Measurement System\Config\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+E:\Work\Optical Measurement System_20240508_1452_AIL\Optical Measurement System\Config\obj\Debug\Config.csproj.AssemblyReference.cache
+E:\Work\Optical Measurement System_20240508_1452_AIL\Optical Measurement System\Config\obj\Debug\Config.BootConfigSettingControl.resources
+E:\Work\Optical Measurement System_20240508_1452_AIL\Optical Measurement System\Config\obj\Debug\Config.MeasRecipeSettingControl.resources
+E:\Work\Optical Measurement System_20240508_1452_AIL\Optical Measurement System\Config\obj\Debug\Config.csproj.GenerateResource.cache
+E:\Work\Optical Measurement System_20240508_1452_AIL\Optical Measurement System\Config\obj\Debug\Config.csproj.CoreCompileInputs.cache
+E:\Work\Optical Measurement System_20240508_1452_AIL\Optical Measurement System\Config\obj\Debug\Config.csproj.CopyComplete
+E:\Work\Optical Measurement System_20240508_1452_AIL\Optical Measurement System\Config\obj\Debug\Config.dll
+E:\Work\Optical Measurement System_20240508_1452_AIL\Optical Measurement System\Config\obj\Debug\Config.pdb
+E:\Work\Optical Measurement System_20240508_1632_AIL\Optical Measurement System\Config\bin\Debug\Config.dll
+E:\Work\Optical Measurement System_20240508_1632_AIL\Optical Measurement System\Config\bin\Debug\Config.pdb
+E:\Work\Optical Measurement System_20240508_1632_AIL\Optical Measurement System\Config\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Work\Optical Measurement System_20240508_1632_AIL\Optical Measurement System\Config\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+E:\Work\Optical Measurement System_20240508_1632_AIL\Optical Measurement System\Config\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Work\Optical Measurement System_20240508_1632_AIL\Optical Measurement System\Config\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+E:\Work\Optical Measurement System_20240508_1632_AIL\Optical Measurement System\Config\obj\Debug\Config.BootConfigSettingControl.resources
+E:\Work\Optical Measurement System_20240508_1632_AIL\Optical Measurement System\Config\obj\Debug\Config.MeasRecipeSettingControl.resources
+E:\Work\Optical Measurement System_20240508_1632_AIL\Optical Measurement System\Config\obj\Debug\Config.csproj.GenerateResource.cache
+E:\Work\Optical Measurement System_20240508_1632_AIL\Optical Measurement System\Config\obj\Debug\Config.csproj.CoreCompileInputs.cache
+E:\Work\Optical Measurement System_20240508_1632_AIL\Optical Measurement System\Config\obj\Debug\Config.csproj.CopyComplete
+E:\Work\Optical Measurement System_20240508_1632_AIL\Optical Measurement System\Config\obj\Debug\Config.dll
+E:\Work\Optical Measurement System_20240508_1632_AIL\Optical Measurement System\Config\obj\Debug\Config.pdb
+D:\Work\Source code\Optical Measurement System\Config\bin\Debug\Config.dll
+D:\Work\Source code\Optical Measurement System\Config\bin\Debug\Config.pdb
+D:\Work\Source code\Optical Measurement System\Config\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Work\Source code\Optical Measurement System\Config\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\Work\Source code\Optical Measurement System\Config\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Work\Source code\Optical Measurement System\Config\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\Work\Source code\Optical Measurement System\Config\obj\Debug\Config.csproj.AssemblyReference.cache
+D:\Work\Source code\Optical Measurement System\Config\obj\Debug\Config.BootConfigSettingControl.resources
+D:\Work\Source code\Optical Measurement System\Config\obj\Debug\Config.MeasRecipeSettingControl.resources
+D:\Work\Source code\Optical Measurement System\Config\obj\Debug\Config.csproj.GenerateResource.cache
+D:\Work\Source code\Optical Measurement System\Config\obj\Debug\Config.csproj.CoreCompileInputs.cache
+D:\Work\Source code\Optical Measurement System\Config\obj\Debug\Config.csproj.CopyComplete
+D:\Work\Source code\Optical Measurement System\Config\obj\Debug\Config.dll
+D:\Work\Source code\Optical Measurement System\Config\obj\Debug\Config.pdb
+D:\00. Code\校驗平台\OMS\Config\bin\Debug\Config.dll
+D:\00. Code\校驗平台\OMS\Config\bin\Debug\Config.pdb
+D:\00. Code\校驗平台\OMS\Config\bin\Debug\DocumentFormat.OpenXml.dll
+D:\00. Code\校驗平台\OMS\Config\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\00. Code\校驗平台\OMS\Config\bin\Debug\DocumentFormat.OpenXml.xml
+D:\00. Code\校驗平台\OMS\Config\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\00. Code\校驗平台\OMS\Config\obj\Debug\Config.BootConfigSettingControl.resources
+D:\00. Code\校驗平台\OMS\Config\obj\Debug\Config.MeasRecipeSettingControl.resources
+D:\00. Code\校驗平台\OMS\Config\obj\Debug\Config.csproj.GenerateResource.cache
+D:\00. Code\校驗平台\OMS\Config\obj\Debug\Config.csproj.CoreCompileInputs.cache
+D:\00. Code\校驗平台\OMS\Config\obj\Debug\Config.csproj.CopyComplete
+D:\00. Code\校驗平台\OMS\Config\obj\Debug\Config.dll
+D:\00. Code\校驗平台\OMS\Config\obj\Debug\Config.pdb
+D:\00. Code\AIC Calibration Platform\OMS - 0527\Config\bin\Debug\Config.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0527\Config\bin\Debug\Config.pdb
+D:\00. Code\AIC Calibration Platform\OMS - 0527\Config\bin\Debug\DocumentFormat.OpenXml.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0527\Config\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0527\Config\bin\Debug\DocumentFormat.OpenXml.xml
+D:\00. Code\AIC Calibration Platform\OMS - 0527\Config\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\00. Code\AIC Calibration Platform\OMS - 0527\Config\obj\Debug\Config.csprojAssemblyReference.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0527\Config\obj\Debug\Config.BootConfigSettingControl.resources
+D:\00. Code\AIC Calibration Platform\OMS - 0527\Config\obj\Debug\Config.MeasRecipeSettingControl.resources
+D:\00. Code\AIC Calibration Platform\OMS - 0527\Config\obj\Debug\Config.csproj.GenerateResource.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0527\Config\obj\Debug\Config.csproj.CoreCompileInputs.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0527\Config\obj\Debug\Config.csproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 0527\Config\obj\Debug\Config.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0527\Config\obj\Debug\Config.pdb
+D:\00. Code\AIC Calibration Platform\OMS - 0528\Config\bin\Debug\Config.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0528\Config\bin\Debug\Config.pdb
+D:\00. Code\AIC Calibration Platform\OMS - 0528\Config\bin\Debug\DocumentFormat.OpenXml.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0528\Config\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0528\Config\bin\Debug\DocumentFormat.OpenXml.xml
+D:\00. Code\AIC Calibration Platform\OMS - 0528\Config\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\00. Code\AIC Calibration Platform\OMS - 0528\Config\obj\Debug\Config.BootConfigSettingControl.resources
+D:\00. Code\AIC Calibration Platform\OMS - 0528\Config\obj\Debug\Config.MeasRecipeSettingControl.resources
+D:\00. Code\AIC Calibration Platform\OMS - 0528\Config\obj\Debug\Config.csproj.GenerateResource.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0528\Config\obj\Debug\Config.csproj.CoreCompileInputs.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0528\Config\obj\Debug\Config.csproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 0528\Config\obj\Debug\Config.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0528\Config\obj\Debug\Config.pdb
+D:\00. Code\AIC Calibration Platform\OMS - 0528\Config\obj\Debug\Config.csprojAssemblyReference.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0603\Config\bin\Debug\Config.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0603\Config\bin\Debug\Config.pdb
+D:\00. Code\AIC Calibration Platform\OMS - 0603\Config\bin\Debug\DocumentFormat.OpenXml.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0603\Config\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0603\Config\bin\Debug\DocumentFormat.OpenXml.xml
+D:\00. Code\AIC Calibration Platform\OMS - 0603\Config\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\00. Code\AIC Calibration Platform\OMS - 0603\Config\obj\Debug\Config.BootConfigSettingControl.resources
+D:\00. Code\AIC Calibration Platform\OMS - 0603\Config\obj\Debug\Config.MeasRecipeSettingControl.resources
+D:\00. Code\AIC Calibration Platform\OMS - 0603\Config\obj\Debug\Config.csproj.GenerateResource.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0603\Config\obj\Debug\Config.csproj.CoreCompileInputs.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0603\Config\obj\Debug\Config.csproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 0603\Config\obj\Debug\Config.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0603\Config\obj\Debug\Config.pdb
+D:\00. Code\AIC Calibration Platform\OMS - 0603\Config\obj\Debug\Config.csprojAssemblyReference.cache
+D:\OMS - 0603\Config\bin\Debug\Config.dll
+D:\OMS - 0603\Config\bin\Debug\Config.pdb
+D:\OMS - 0603\Config\bin\Debug\DocumentFormat.OpenXml.dll
+D:\OMS - 0603\Config\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\OMS - 0603\Config\bin\Debug\DocumentFormat.OpenXml.xml
+D:\OMS - 0603\Config\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\OMS - 0603\Config\obj\Debug\Config.BootConfigSettingControl.resources
+D:\OMS - 0603\Config\obj\Debug\Config.MeasRecipeSettingControl.resources
+D:\OMS - 0603\Config\obj\Debug\Config.csproj.GenerateResource.cache
+D:\OMS - 0603\Config\obj\Debug\Config.csproj.CoreCompileInputs.cache
+D:\OMS - 0603\Config\obj\Debug\Config.csproj.CopyComplete
+D:\OMS - 0603\Config\obj\Debug\Config.dll
+D:\OMS - 0603\Config\obj\Debug\Config.pdb
+D:\Cody\Cody_OMS - 0701\Config\bin\Debug\Config.dll
+D:\Cody\Cody_OMS - 0701\Config\bin\Debug\Config.pdb
+D:\Cody\Cody_OMS - 0701\Config\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Cody\Cody_OMS - 0701\Config\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\Cody\Cody_OMS - 0701\Config\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Cody\Cody_OMS - 0701\Config\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\Cody\Cody_OMS - 0701\Config\obj\Debug\Config.BootConfigSettingControl.resources
+D:\Cody\Cody_OMS - 0701\Config\obj\Debug\Config.MeasRecipeSettingControl.resources
+D:\Cody\Cody_OMS - 0701\Config\obj\Debug\Config.csproj.GenerateResource.cache
+D:\Cody\Cody_OMS - 0701\Config\obj\Debug\Config.csproj.CoreCompileInputs.cache
+D:\Cody\Cody_OMS - 0701\Config\obj\Debug\Config.csproj.CopyComplete
+D:\Cody\Cody_OMS - 0701\Config\obj\Debug\Config.dll
+D:\Cody\Cody_OMS - 0701\Config\obj\Debug\Config.pdb
+D:\Cody\Cody_OMS - 0701\Config\obj\Debug\Config.csproj.AssemblyReference.cache
+D:\00. Code\AIC Calibration Platform\Cody_OMS - 0701\Config\bin\Debug\Config.dll
+D:\00. Code\AIC Calibration Platform\Cody_OMS - 0701\Config\bin\Debug\Config.pdb
+D:\00. Code\AIC Calibration Platform\Cody_OMS - 0701\Config\bin\Debug\DocumentFormat.OpenXml.dll
+D:\00. Code\AIC Calibration Platform\Cody_OMS - 0701\Config\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\00. Code\AIC Calibration Platform\Cody_OMS - 0701\Config\bin\Debug\DocumentFormat.OpenXml.xml
+D:\00. Code\AIC Calibration Platform\Cody_OMS - 0701\Config\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\00. Code\AIC Calibration Platform\Cody_OMS - 0701\Config\obj\Debug\Config.csprojAssemblyReference.cache
+D:\00. Code\AIC Calibration Platform\Cody_OMS - 0701\Config\obj\Debug\Config.BootConfigSettingControl.resources
+D:\00. Code\AIC Calibration Platform\Cody_OMS - 0701\Config\obj\Debug\Config.MeasRecipeSettingControl.resources
+D:\00. Code\AIC Calibration Platform\Cody_OMS - 0701\Config\obj\Debug\Config.csproj.GenerateResource.cache
+D:\00. Code\AIC Calibration Platform\Cody_OMS - 0701\Config\obj\Debug\Config.csproj.CoreCompileInputs.cache
+D:\00. Code\AIC Calibration Platform\Cody_OMS - 0701\Config\obj\Debug\Config.csproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\Cody_OMS - 0701\Config\obj\Debug\Config.dll
+D:\00. Code\AIC Calibration Platform\Cody_OMS - 0701\Config\obj\Debug\Config.pdb
+D:\00. Code\AIC Calibration Platform\OMS - 0912\Config\bin\Debug\Config.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0912\Config\bin\Debug\Config.pdb
+D:\00. Code\AIC Calibration Platform\OMS - 0912\Config\bin\Debug\DocumentFormat.OpenXml.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0912\Config\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0912\Config\bin\Debug\DocumentFormat.OpenXml.xml
+D:\00. Code\AIC Calibration Platform\OMS - 0912\Config\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\00. Code\AIC Calibration Platform\OMS - 0912\Config\obj\Debug\Config.MeasRecipeSettingControl.resources
+D:\00. Code\AIC Calibration Platform\OMS - 0912\Config\obj\Debug\Config.csproj.GenerateResource.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0912\Config\obj\Debug\Config.csproj.CoreCompileInputs.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0912\Config\obj\Debug\Config.csproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 0912\Config\obj\Debug\Config.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0912\Config\obj\Debug\Config.pdb
+D:\00. Code\AIC Calibration Platform\OMS - 0913\Config\bin\Debug\Config.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0913\Config\bin\Debug\Config.pdb
+D:\00. Code\AIC Calibration Platform\OMS - 0913\Config\bin\Debug\DocumentFormat.OpenXml.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0913\Config\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0913\Config\bin\Debug\DocumentFormat.OpenXml.xml
+D:\00. Code\AIC Calibration Platform\OMS - 0913\Config\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\00. Code\AIC Calibration Platform\OMS - 0913\Config\obj\Debug\Config.csprojAssemblyReference.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0913\Config\obj\Debug\Config.csproj.CoreCompileInputs.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0913\Config\obj\Debug\Config.csproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 0913\Config\obj\Debug\Config.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0913\Config\obj\Debug\Config.pdb
+D:\00. Code\AIC Calibration Platform\OMS - 0918\Config\bin\Debug\Config.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0918\Config\bin\Debug\Config.pdb
+D:\00. Code\AIC Calibration Platform\OMS - 0918\Config\bin\Debug\DocumentFormat.OpenXml.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0918\Config\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0918\Config\bin\Debug\DocumentFormat.OpenXml.xml
+D:\00. Code\AIC Calibration Platform\OMS - 0918\Config\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\00. Code\AIC Calibration Platform\OMS - 0918\Config\obj\Debug\Config.csprojAssemblyReference.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0918\Config\obj\Debug\Config.csproj.CoreCompileInputs.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0918\Config\obj\Debug\Config.csproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 0918\Config\obj\Debug\Config.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0918\Config\obj\Debug\Config.pdb
+D:\00. Code\AIC Calibration Platform\OMS - 0923\Config\bin\Debug\Config.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0923\Config\bin\Debug\Config.pdb
+D:\00. Code\AIC Calibration Platform\OMS - 0923\Config\bin\Debug\DocumentFormat.OpenXml.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0923\Config\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0923\Config\bin\Debug\DocumentFormat.OpenXml.xml
+D:\00. Code\AIC Calibration Platform\OMS - 0923\Config\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\00. Code\AIC Calibration Platform\OMS - 0923\Config\obj\Debug\Config.csproj.CoreCompileInputs.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0923\Config\obj\Debug\Config.csproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 0923\Config\obj\Debug\Config.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0923\Config\obj\Debug\Config.pdb
+D:\00. Code\AIC Calibration Platform\OMS - 0924\Config\bin\Debug\Config.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0924\Config\bin\Debug\Config.pdb
+D:\00. Code\AIC Calibration Platform\OMS - 0924\Config\bin\Debug\DocumentFormat.OpenXml.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0924\Config\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0924\Config\bin\Debug\DocumentFormat.OpenXml.xml
+D:\00. Code\AIC Calibration Platform\OMS - 0924\Config\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\00. Code\AIC Calibration Platform\OMS - 0924\Config\obj\Debug\Config.csproj.CoreCompileInputs.cache
+D:\00. Code\AIC Calibration Platform\OMS - 0924\Config\obj\Debug\Config.csproj.CopyComplete
+D:\00. Code\AIC Calibration Platform\OMS - 0924\Config\obj\Debug\Config.dll
+D:\00. Code\AIC Calibration Platform\OMS - 0924\Config\obj\Debug\Config.pdb

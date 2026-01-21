@@ -1,0 +1,39 @@
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\Config\bin\Release\Config.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\Config\bin\Release\Config.pdb
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\Config\obj\Release\Config.BootConfigSettingControl.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\Config\obj\Release\Config.MeasRecipeSettingControl.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\Config\obj\Release\Config.csproj.GenerateResource.cache
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\Config\obj\Release\Config.csproj.CoreCompileInputs.cache
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\Config\obj\Release\Config.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\Config\obj\Release\Config.pdb
+D:\0607_Rick test\Optical Measurement System\Config\bin\Release\Config.dll
+D:\0607_Rick test\Optical Measurement System\Config\bin\Release\Config.pdb
+D:\0607_Rick test\Optical Measurement System\Config\obj\Release\Config.BootConfigSettingControl.resources
+D:\0607_Rick test\Optical Measurement System\Config\obj\Release\Config.MeasRecipeSettingControl.resources
+D:\0607_Rick test\Optical Measurement System\Config\obj\Release\Config.csproj.GenerateResource.cache
+D:\0607_Rick test\Optical Measurement System\Config\obj\Release\Config.csproj.CoreCompileInputs.cache
+D:\0607_Rick test\Optical Measurement System\Config\obj\Release\Config.dll
+D:\0607_Rick test\Optical Measurement System\Config\obj\Release\Config.pdb
+D:\work\Rick\Optical Measurement System\Config\bin\Release\Config.dll
+D:\work\Rick\Optical Measurement System\Config\bin\Release\Config.pdb
+D:\work\Rick\Optical Measurement System\Config\obj\Release\Config.BootConfigSettingControl.resources
+D:\work\Rick\Optical Measurement System\Config\obj\Release\Config.MeasRecipeSettingControl.resources
+D:\work\Rick\Optical Measurement System\Config\obj\Release\Config.csproj.GenerateResource.cache
+D:\work\Rick\Optical Measurement System\Config\obj\Release\Config.csproj.CoreCompileInputs.cache
+D:\work\Rick\Optical Measurement System\Config\obj\Release\Config.dll
+D:\work\Rick\Optical Measurement System\Config\obj\Release\Config.pdb
+D:\work\Rick\Optical Measurement System\Config\obj\Release\Config.csprojAssemblyReference.cache
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\Config\bin\Release\Config.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\Config\bin\Release\Config.pdb
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\Config\bin\Release\DocumentFormat.OpenXml.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\Config\bin\Release\DocumentFormat.OpenXml.Framework.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\Config\bin\Release\DocumentFormat.OpenXml.xml
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\Config\bin\Release\DocumentFormat.OpenXml.Framework.xml
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\Config\obj\Release\Config.csproj.AssemblyReference.cache
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\Config\obj\Release\Config.BootConfigSettingControl.resources
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\Config\obj\Release\Config.MeasRecipeSettingControl.resources
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\Config\obj\Release\Config.csproj.GenerateResource.cache
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\Config\obj\Release\Config.csproj.CoreCompileInputs.cache
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\Config\obj\Release\Config.csproj.CopyComplete
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\Config\obj\Release\Config.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\Config\obj\Release\Config.pdb

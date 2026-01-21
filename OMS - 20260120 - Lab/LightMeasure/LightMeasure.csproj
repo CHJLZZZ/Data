@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2C93286D-D7B3-4E5E-9863-319C56E02972}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LightMeasure</RootNamespace>
+    <AssemblyName>LightMeasure</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CommonBase">
+      <HintPath>..\TransferAOI_Lum_Spec\ref\CommonBase.dll</HintPath>
+    </Reference>
+    <Reference Include="Matrox.MatroxImagingLibrary, Version=10.40.881.1281, Culture=neutral, PublicKeyToken=5a83d419d44a9d98, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Ref\Matrox.MatroxImagingLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Assist\MatrixAssistant.cs" />
+    <Compile Include="Data\ClsAutoLuminance.cs" />
+    <Compile Include="Data\CogDataResultFile.cs" />
+    <Compile Include="Data\CoordinatePositionInfo.cs" />
+    <Compile Include="ImageData\MilChromaImage.cs" />
+    <Compile Include="Data\RectRegionInfo.cs" />
+    <Compile Include="Data\UserCalibrationMatrixInfo.cs" />
+    <Compile Include="Enum\EnumRegionMethod.cs" />
+    <Compile Include="PixelAligner\Enum\DirectionFindPixelType.cs" />
+    <Compile Include="PixelAligner\Setting\FindPanelPixelSetting.cs" />
+    <Compile Include="PixelAligner\Setting\CoarseAlignSetting.cs" />
+    <Compile Include="PixelAligner\Enum\AlignRunType.cs" />
+    <Compile Include="Data\PanelInfo.cs" />
+    <Compile Include="Assist\PointData.cs" />
+    <Compile Include="Assist\RegionData.cs" />
+    <Compile Include="Data\BlobData.cs" />
+    <Compile Include="Data\CieChromaInfo.cs" />
+    <Compile Include="Data\CircleRegionInfo.cs" />
+    <Compile Include="Data\ImageInfo.cs" />
+    <Compile Include="Data\MatrixInfo.cs" />
+    <Compile Include="Data\MeasureData.cs" />
+    <Compile Include="Data\FourColorData.cs" />
+    <Compile Include="Data\ObjectBase.cs" />
+    <Compile Include="Data\ThreeDimensionalInfo.cs" />
+    <Compile Include="Config\LightMeasureConfig.cs" />
+    <Compile Include="Assist\InterpolationAssistant.cs" />
+    <Compile Include="ImageData\MilColorImage.cs" />
+    <Compile Include="PixelAligner\Enum\DirectionType.cs" />
+    <Compile Include="LightMeasurer\LightMeasurer.cs" />
+    <Compile Include="MilNetHelper\Enum\MilErrorControlType.cs" />
+    <Compile Include="MilNetHelper\MilNetHelper.cs" />
+    <Compile Include="PixelAligner\PixelAligner.cs" />
+    <Compile Include="PixelAligner\Setting\PixelAlignSetting.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="PixelAligner\Parameter\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Config\BaseTool.csproj">
+      <Project>{a915c2a5-0294-4d5f-a67f-2354476851f7}</Project>
+      <Name>BaseTool</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

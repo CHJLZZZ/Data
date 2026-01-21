@@ -1,0 +1,67 @@
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\FrameGrabber\obj\Release\FrameGrabber.csproj.CoreCompileInputs.cache
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\FrameGrabber\bin\Release\FrameGrabber.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\FrameGrabber\bin\Release\FrameGrabber.pdb
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\FrameGrabber\bin\Release\Matrox.MatroxImagingLibrary.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\FrameGrabber\bin\Release\OpenCvSharp.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\FrameGrabber\bin\Release\System.Memory.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\FrameGrabber\bin\Release\System.Numerics.Vectors.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\FrameGrabber\bin\Release\System.Buffers.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\FrameGrabber\obj\Release\FrameGrabber.csproj.CopyComplete
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\FrameGrabber\obj\Release\FrameGrabber.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\FrameGrabber\obj\Release\FrameGrabber.pdb
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\FrameGrabber\bin\Release\ASCOM.DeviceInterfaces.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\FrameGrabber\bin\Release\ASCOM.DriverAccess.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\FrameGrabber\bin\Release\ASCOM.Utilities.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\FrameGrabber\bin\Release\Config.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\FrameGrabber\bin\Release\Config.pdb
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\FrameGrabber\obj\Release\FrameGrabber.csproj.AssemblyReference.cache
+D:\0607_Rick test\Optical Measurement System\FrameGrabber\bin\Release\FrameGrabber.dll
+D:\0607_Rick test\Optical Measurement System\FrameGrabber\bin\Release\FrameGrabber.pdb
+D:\0607_Rick test\Optical Measurement System\FrameGrabber\bin\Release\ASCOM.DeviceInterfaces.dll
+D:\0607_Rick test\Optical Measurement System\FrameGrabber\bin\Release\ASCOM.DriverAccess.dll
+D:\0607_Rick test\Optical Measurement System\FrameGrabber\bin\Release\ASCOM.Utilities.dll
+D:\0607_Rick test\Optical Measurement System\FrameGrabber\bin\Release\Config.dll
+D:\0607_Rick test\Optical Measurement System\FrameGrabber\bin\Release\Matrox.MatroxImagingLibrary.dll
+D:\0607_Rick test\Optical Measurement System\FrameGrabber\bin\Release\OpenCvSharp.dll
+D:\0607_Rick test\Optical Measurement System\FrameGrabber\bin\Release\System.Memory.dll
+D:\0607_Rick test\Optical Measurement System\FrameGrabber\bin\Release\System.Numerics.Vectors.dll
+D:\0607_Rick test\Optical Measurement System\FrameGrabber\bin\Release\System.Buffers.dll
+D:\0607_Rick test\Optical Measurement System\FrameGrabber\bin\Release\Config.pdb
+D:\0607_Rick test\Optical Measurement System\FrameGrabber\obj\Release\FrameGrabber.csproj.AssemblyReference.cache
+D:\0607_Rick test\Optical Measurement System\FrameGrabber\obj\Release\FrameGrabber.csproj.CoreCompileInputs.cache
+D:\0607_Rick test\Optical Measurement System\FrameGrabber\obj\Release\FrameGrabber.csproj.CopyComplete
+D:\0607_Rick test\Optical Measurement System\FrameGrabber\obj\Release\FrameGrabber.dll
+D:\0607_Rick test\Optical Measurement System\FrameGrabber\obj\Release\FrameGrabber.pdb
+D:\work\Rick\Optical Measurement System\FrameGrabber\obj\Release\FrameGrabber.csprojAssemblyReference.cache
+D:\work\Rick\Optical Measurement System\FrameGrabber\obj\Release\FrameGrabber.csproj.CoreCompileInputs.cache
+D:\work\Rick\Optical Measurement System\FrameGrabber\obj\Release\FrameGrabber.dll
+D:\work\Rick\Optical Measurement System\FrameGrabber\obj\Release\FrameGrabber.pdb
+D:\work\Rick\Optical Measurement System\FrameGrabber\bin\Release\FrameGrabber.dll
+D:\work\Rick\Optical Measurement System\FrameGrabber\bin\Release\FrameGrabber.pdb
+D:\work\Rick\Optical Measurement System\FrameGrabber\bin\Release\ASCOM.DeviceInterfaces.dll
+D:\work\Rick\Optical Measurement System\FrameGrabber\bin\Release\ASCOM.DriverAccess.dll
+D:\work\Rick\Optical Measurement System\FrameGrabber\bin\Release\ASCOM.Utilities.dll
+D:\work\Rick\Optical Measurement System\FrameGrabber\bin\Release\CommonBase.dll
+D:\work\Rick\Optical Measurement System\FrameGrabber\bin\Release\Config.dll
+D:\work\Rick\Optical Measurement System\FrameGrabber\bin\Release\Matrox.MatroxImagingLibrary.dll
+D:\work\Rick\Optical Measurement System\FrameGrabber\bin\Release\OpenCvSharp.dll
+D:\work\Rick\Optical Measurement System\FrameGrabber\bin\Release\Config.pdb
+D:\work\Rick\Optical Measurement System\FrameGrabber\obj\Release\FrameGrabber.csproj.CopyComplete
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\FrameGrabber\bin\Release\FrameGrabber.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\FrameGrabber\bin\Release\FrameGrabber.pdb
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\FrameGrabber\bin\Release\ASCOM.DeviceInterfaces.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\FrameGrabber\bin\Release\ASCOM.DriverAccess.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\FrameGrabber\bin\Release\ASCOM.Utilities.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\FrameGrabber\bin\Release\CommonBase.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\FrameGrabber\bin\Release\Config.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\FrameGrabber\bin\Release\Matrox.MatroxImagingLibrary.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\FrameGrabber\bin\Release\OpenCvSharp.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\FrameGrabber\bin\Release\System.Memory.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\FrameGrabber\bin\Release\System.Numerics.Vectors.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\FrameGrabber\bin\Release\System.Buffers.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\FrameGrabber\bin\Release\Config.pdb
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\FrameGrabber\obj\Release\FrameGrabber.csproj.AssemblyReference.cache
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\FrameGrabber\obj\Release\FrameGrabber.csproj.CoreCompileInputs.cache
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\FrameGrabber\obj\Release\FrameGrabber.csproj.CopyComplete
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\FrameGrabber\obj\Release\FrameGrabber.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\FrameGrabber\obj\Release\FrameGrabber.pdb

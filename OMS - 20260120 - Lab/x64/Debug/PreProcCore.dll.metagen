@@ -1,0 +1,31 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly PreProcCore, Version=1.0.*, Culture=不因語言而異 (不因國別而異): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly CudaCore, Version=1.0.*, Culture=不因語言而異 (不因國別而異): 
+	hash=None, flags=None
+Assembly Matrox.MatroxImagingLibrary, Version=10.50.721.10071, Culture=neutral, PublicKeyToken=5a83d419d44a9d98: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class PreProcCore.ImgPreProcCore: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int64, Int64, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Fields:
+    Int64 MilApplication : Public
+    Int64 MilSystem : Public
+    CudaCore.CudaInterFace CudaIF : Public
+  Methods:
+    ConvSysStrToWChar(String): PrivateScope, Public, HideBySig
+    FunCalCalbriationCoef(Int64, String, Int32, Int32): PrivateScope, Public, HideBySig
+    FunCalCalbriationImg(Int64, Int64, String): PrivateScope, Public, HideBySig
+    FunCalFFCCoef(Int64, Int64, String, Int64, Int64, Int64): PrivateScope, Public, HideBySig
+    FunCalFFCImg(Int64, Int64, String): PrivateScope, Public, HideBySig
+    FunCalHotPixelImg(Int64, Double, Double, Int32, Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig

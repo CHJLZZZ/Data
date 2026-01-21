@@ -1,0 +1,165 @@
+D:\【Code】\開發 (備份)\Transfer AOI\TransferAOI - Lum_Spec\TransferAOI - Lum_Spec(Ver 0613) - 29M\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.frmLogin.resources
+D:\【Code】\開發 (備份)\Transfer AOI\TransferAOI - Lum_Spec\TransferAOI - Lum_Spec(Ver 0613) - 29M\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.frmMain.resources
+D:\【Code】\開發 (備份)\Transfer AOI\TransferAOI - Lum_Spec\TransferAOI - Lum_Spec(Ver 0613) - 29M\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.frmSR5100Setting.resources
+D:\【Code】\開發 (備份)\Transfer AOI\TransferAOI - Lum_Spec\TransferAOI - Lum_Spec(Ver 0613) - 29M\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.frmSystemSetting.resources
+D:\【Code】\開發 (備份)\Transfer AOI\TransferAOI - Lum_Spec\TransferAOI - Lum_Spec(Ver 0613) - 29M\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.frmUserEdit.resources
+D:\【Code】\開發 (備份)\Transfer AOI\TransferAOI - Lum_Spec\TransferAOI - Lum_Spec(Ver 0613) - 29M\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.frmUserManage.resources
+D:\【Code】\開發 (備份)\Transfer AOI\TransferAOI - Lum_Spec\TransferAOI - Lum_Spec(Ver 0613) - 29M\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.Properties.Resources.resources
+D:\【Code】\開發 (備份)\Transfer AOI\TransferAOI - Lum_Spec\TransferAOI - Lum_Spec(Ver 0613) - 29M\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.frmUA200ASetting.resources
+D:\【Code】\開發 (備份)\Transfer AOI\TransferAOI - Lum_Spec\TransferAOI - Lum_Spec(Ver 0613) - 29M\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.csproj.GenerateResource.cache
+D:\【Code】\開發 (備份)\Transfer AOI\TransferAOI - Lum_Spec\TransferAOI - Lum_Spec(Ver 0613) - 29M\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.csproj.CoreCompileInputs.cache
+D:\【Code】\開發 (備份)\自主開發量測頭\TransferAOI - Lum_Spec(Ver 0621) - 29M\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.csprojAssemblyReference.cache
+D:\【Code】\開發 (備份)\自主開發量測頭\TransferAOI - Lum_Spec(Ver 0621) - 29M\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec._29M_Test_Form.resources
+D:\【Code】\開發 (備份)\自主開發量測頭\TransferAOI - Lum_Spec(Ver 0621) - 29M\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.OvalButton.resources
+D:\【Code】\開發 (備份)\自主開發量測頭\TransferAOI - Lum_Spec(Ver 0621) - 29M\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.frm29MSetting.resources
+D:\【Code】\開發 (備份)\自主開發量測頭\TransferAOI - Lum_Spec(Ver 0621) - 29M\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.frmLogin.resources
+D:\【Code】\開發 (備份)\自主開發量測頭\TransferAOI - Lum_Spec(Ver 0621) - 29M\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.frmMain.resources
+D:\【Code】\開發 (備份)\自主開發量測頭\TransferAOI - Lum_Spec(Ver 0621) - 29M\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.frmSR5100Setting.resources
+D:\【Code】\開發 (備份)\自主開發量測頭\TransferAOI - Lum_Spec(Ver 0621) - 29M\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.frmSystemSetting.resources
+D:\【Code】\開發 (備份)\自主開發量測頭\TransferAOI - Lum_Spec(Ver 0621) - 29M\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.frmUserEdit.resources
+D:\【Code】\開發 (備份)\自主開發量測頭\TransferAOI - Lum_Spec(Ver 0621) - 29M\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.frmUserManage.resources
+D:\【Code】\開發 (備份)\自主開發量測頭\TransferAOI - Lum_Spec(Ver 0621) - 29M\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.Properties.Resources.resources
+D:\【Code】\開發 (備份)\自主開發量測頭\TransferAOI - Lum_Spec(Ver 0621) - 29M\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.frmUA200ASetting.resources
+D:\【Code】\開發 (備份)\自主開發量測頭\TransferAOI - Lum_Spec(Ver 0621) - 29M\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.csproj.GenerateResource.cache
+D:\【Code】\開發 (備份)\自主開發量測頭\TransferAOI - Lum_Spec(Ver 0621) - 29M\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.csproj.CoreCompileInputs.cache
+D:\Transfer AOI Code\29M\Offline\TransferAOI - Lum_Spec(Ver 0807)\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.csprojResolveAssemblyReference.cache
+D:\Transfer AOI Code\29M\Offline\TransferAOI - Lum_Spec(Ver 0807)\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec._29M_Test_Form.resources
+D:\Transfer AOI Code\29M\Offline\TransferAOI - Lum_Spec(Ver 0807)\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.frmMcmqSetting.resources
+D:\Transfer AOI Code\29M\Offline\TransferAOI - Lum_Spec(Ver 0807)\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.PanelDataSetting.resources
+D:\Transfer AOI Code\29M\Offline\TransferAOI - Lum_Spec(Ver 0807)\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.PG_CtrlTool.resources
+D:\Transfer AOI Code\29M\Offline\TransferAOI - Lum_Spec(Ver 0807)\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.LumResultForm.resources
+D:\Transfer AOI Code\29M\Offline\TransferAOI - Lum_Spec(Ver 0807)\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.frm29MSetting.resources
+D:\Transfer AOI Code\29M\Offline\TransferAOI - Lum_Spec(Ver 0807)\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.frmLogin.resources
+D:\Transfer AOI Code\29M\Offline\TransferAOI - Lum_Spec(Ver 0807)\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.frmMain.resources
+D:\Transfer AOI Code\29M\Offline\TransferAOI - Lum_Spec(Ver 0807)\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.frmSR5100Setting.resources
+D:\Transfer AOI Code\29M\Offline\TransferAOI - Lum_Spec(Ver 0807)\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.frmSystemSetting.resources
+D:\Transfer AOI Code\29M\Offline\TransferAOI - Lum_Spec(Ver 0807)\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.frmUserEdit.resources
+D:\Transfer AOI Code\29M\Offline\TransferAOI - Lum_Spec(Ver 0807)\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.frmUserManage.resources
+D:\Transfer AOI Code\29M\Offline\TransferAOI - Lum_Spec(Ver 0807)\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.Properties.Resources.resources
+D:\Transfer AOI Code\29M\Offline\TransferAOI - Lum_Spec(Ver 0807)\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.frmUA200ASetting.resources
+D:\Transfer AOI Code\29M\Offline\TransferAOI - Lum_Spec(Ver 0807)\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.csproj.GenerateResource.Cache
+D:\Transfer AOI Code\29M\Offline\TransferAOI - Lum_Spec(Ver 0807)\TransferAOI_Lum_Spec\bin\Debug\TransferAOI_Lum_Spec.exe.config
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.csproj.AssemblyReference.cache
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec._29M_Test_Form.resources
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.frmAlignmentSetting.resources
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.frmMcmqSetting.resources
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.frmWarpSetting.resources
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.PanelDataSetting.resources
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.PG_CtrlTool.resources
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.LumResultForm.resources
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.frm29MSetting.resources
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.MarkTeachTool.resources
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.frmLogin.resources
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.frmMain.resources
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.frmSR5100Setting.resources
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.frmSystemSetting.resources
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.frmUserEdit.resources
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.frmUserManage.resources
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.Properties.Resources.resources
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.frmUA200ASetting.resources
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.csproj.GenerateResource.cache
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.csproj.CoreCompileInputs.cache
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\Optical Measuring System.exe.config
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\Optical Measuring System.exe
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\Optical Measuring System.pdb
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\AASDll.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\ASCOM.DeviceInterfaces.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\ASCOM.DriverAccess.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\ASCOM.Utilities.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\BaseTool.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\ClosedXML.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\ClosedXML.Parser.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\CommonBase.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\CsvHelper.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\DimmerLibrary.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\DocumentFormat.OpenXml.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\Emgu.CV.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\ExcelNumberFormat.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\FrameGrabber.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\FTP_Ctrl.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\HardwareManager.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\HsApiNet.DLL
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\Interfaces.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\Irony.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\LightMeasure.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\MaterialSkin.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\Matrox.MatroxImagingLibrary.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\McmqAgent.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\McmqApi.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\OpenCvSharp.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\PreProcCore.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\PylonC.NET.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\PylonC.NETSupportLibrary.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\RBush.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\SixLabors.Fonts.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\SubSystemControl.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\System.Buffers.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\System.IO.Packaging.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\System.Memory.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\System.Numerics.Vectors.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\ua_core4_net.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\UrRobotForm.exe
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\XLParser.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\Motor.Step.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\Mitsubishi.Ether.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\Newtonsoft.Json.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\LogRecorder.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\CudaCore.dll
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\BaseTool.pdb
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\FrameGrabber.pdb
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\HardwareManager.pdb
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\LightMeasure.pdb
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\UrRobotForm.pdb
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\UrRobotForm.exe.config
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\ClosedXML.pdb
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\ClosedXML.xml
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\ClosedXML.Parser.xml
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\DocumentFormat.OpenXml.xml
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\Emgu.CV.xml
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\ExcelNumberFormat.xml
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\OpenCvSharp.xml
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\RBush.xml
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\SixLabors.Fonts.xml
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\System.Buffers.xml
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\System.IO.Packaging.xml
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\System.Memory.xml
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\System.Numerics.Vectors.xml
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\bin\Debug\Newtonsoft.Json.xml
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.csprojAssemblyReference.cache
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\obj\Debug\Optical Measuring System.g.resources
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\obj\Debug\OpticalMeasuringSystem.InputCheckForm.resources
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\obj\Debug\OpticalMeasuringSystem.FlowCheckForm.resources
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\obj\Debug\OpticalMeasuringSystem.frmGetLumCxCyFilePath.resources
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\obj\Debug\OpticalMeasuringSystem.frmSetDataName.resources
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\obj\Debug\OpticalMeasuringSystem.frmCorrSetting.resources
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\obj\Debug\OpticalMeasuringSystem.ManualForm.resources
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\obj\Debug\OpticalMeasuringSystem.Frm.frmAboutAUO.resources
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\obj\Debug\OpticalMeasuringSystem.frmOneColorCorrection.resources
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\obj\Debug\OpticalMeasuringSystem.frmFourColorMatrixMethod.resources
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\obj\Debug\OpticalMeasuringSystem.frmProcessInfoSetting.resources
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\obj\Debug\OpticalMeasuringSystem.frmParamSetting.resources
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\obj\Debug\OpticalMeasuringSystem.frmMain.resources
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\obj\Debug\OpticalMeasuringSystem.frmSystemSetting.resources
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\obj\Debug\OpticalMeasuringSystem.Properties.Resources.resources
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.csproj.GenerateResource.cache
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.csproj.CoreCompileInputs.cache
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\obj\Debug\TransferAOI_Lum_Spec.csproj.CopyComplete
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\obj\Debug\Optical Measuring System.exe
+D:\00. Code\04. AIC Calibration Platform\OMS - 1104 - 複製\TransferAOI_Lum_Spec\obj\Debug\Optical Measuring System.pdb

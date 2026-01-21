@@ -1,0 +1,110 @@
+public interface IMotorControl
+{
+    void StartMotor();
+    void StopMotor();
+    void SetSpeed(int speed);
+}
+
+public class StandardMotorControl : IMotorControl
+{
+    public void StartMotor()
+    {
+        // Logic to start the motor
+        Console.WriteLine("Standard Motor started.");
+    }
+
+    public void StopMotor()
+    {
+        // Logic to stop the motor
+        Console.WriteLine("Standard Motor stopped.");
+    }
+
+    public void SetSpeed(int speed)
+    {
+        // Logic to set the motor speed
+        Console.WriteLine($"Standard Motor speed set to {speed}.");
+    }
+}
+
+
+public class AdvancedMotorControl : IMotorControl
+{
+    public void StartMotor()
+    {
+        // Advanced logic to start the motor
+        Console.WriteLine("Advanced Motor started with advanced configuration.");
+    }
+
+    public void StopMotor()
+    {
+        // Advanced logic to stop the motor
+        Console.WriteLine("Advanced Motor stopped with advanced handling.");
+    }
+
+    public void SetSpeed(int speed)
+    {
+        // Advanced logic to set the motor speed
+        Console.WriteLine($"Advanced Motor speed set to {speed} with precision control.");
+    }
+
+    // Additional methods for advanced control can be added here
+}
+
+============================================================================================
+
+public class StandardMotorControl : IMotorControl
+{
+    public MotorType Type => MotorType.Standard;
+
+    public void StartMotor()
+    {
+        Console.WriteLine("Standard Motor started.");
+    }
+
+    public void StopMotor()
+    {
+        Console.WriteLine("Standard Motor stopped.");
+    }
+
+    public void SetSpeed(int speed)
+    {
+        Console.WriteLine($"Standard Motor speed set to {speed}.");
+    }
+}
+
+public class AdvancedMotorControl : IMotorControl
+{
+    public MotorType Type => MotorType.Advanced;
+
+    public void StartMotor()
+    {
+        Console.WriteLine("Advanced Motor started with advanced configuration.");
+    }
+
+    public void StopMotor()
+    {
+        Console.WriteLine("Advanced Motor stopped with advanced handling.");
+    }
+
+    public void SetSpeed(int speed)
+    {
+        Console.WriteLine($"Advanced Motor speed set to {speed} with precision control.");
+    }
+
+    // Additional methods for advanced control can be added here
+}
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        IMotorController basicMotor = new BasicMotorController();
+        basicMotor.StartMotor();
+        basicMotor.StopMotor();
+
+        IMotorController precisionMotor = new PrecisionMotorController();
+        precisionMotor.StartMotor();
+        precisionMotor.StopMotor();
+    }
+}
+

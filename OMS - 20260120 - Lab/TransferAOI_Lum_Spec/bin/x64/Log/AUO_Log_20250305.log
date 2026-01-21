@@ -1,0 +1,73 @@
+2025/03/05 10:27:45  ,  ============== LOG START v2025.01.15.01 ============== 
+2025/03/05 10:27:52  , [MoveTcp] System.InvalidCastException: 從字串 "Warning" 至類型 'Integer' 的轉換是無效的。 ---> System.FormatException: 輸入字串格式不正確。
+   於 Microsoft.VisualBasic.CompilerServices.Conversions.ParseDouble(String Value, NumberFormatInfo NumberFormat)
+   於 Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   --- 內部例外狀況堆疊追蹤的結尾 ---
+   於 Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   於 UrRobotForm.RobotUnitForm.MoveToPos() 於 D:\00. Code\AIC Calibration Platform\OMS - 0305\PrjUrRobotDemo\UrRobotForm\Form1.vb: 行 387
+2025/03/05 10:28:10  , [MoveTcp] System.InvalidCastException: 從字串 "Warning" 至類型 'Integer' 的轉換是無效的。 ---> System.FormatException: 輸入字串格式不正確。
+   於 Microsoft.VisualBasic.CompilerServices.Conversions.ParseDouble(String Value, NumberFormatInfo NumberFormat)
+   於 Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   --- 內部例外狀況堆疊追蹤的結尾 ---
+   於 Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   於 UrRobotForm.RobotUnitForm.MoveToPos() 於 D:\00. Code\AIC Calibration Platform\OMS - 0305\PrjUrRobotDemo\UrRobotForm\Form1.vb: 行 387
+2025/03/05 10:28:12  , [MoveTcp] System.InvalidCastException: 從字串 "Warning" 至類型 'Integer' 的轉換是無效的。 ---> System.FormatException: 輸入字串格式不正確。
+   於 Microsoft.VisualBasic.CompilerServices.Conversions.ParseDouble(String Value, NumberFormatInfo NumberFormat)
+   於 Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   --- 內部例外狀況堆疊追蹤的結尾 ---
+   於 Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   於 UrRobotForm.RobotUnitForm.MoveToPos() 於 D:\00. Code\AIC Calibration Platform\OMS - 0305\PrjUrRobotDemo\UrRobotForm\Form1.vb: 行 387
+2025/03/05 10:29:24  , [MoveTcp] System.InvalidCastException: 從字串 "Warning" 至類型 'Integer' 的轉換是無效的。 ---> System.FormatException: 輸入字串格式不正確。
+   於 Microsoft.VisualBasic.CompilerServices.Conversions.ParseDouble(String Value, NumberFormatInfo NumberFormat)
+   於 Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   --- 內部例外狀況堆疊追蹤的結尾 ---
+   於 Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   於 UrRobotForm.RobotUnitForm.MoveToPos() 於 D:\00. Code\AIC Calibration Platform\OMS - 0305\PrjUrRobotDemo\UrRobotForm\Form1.vb: 行 387
+2025/03/05 10:32:43  , [MoveTcp] System.InvalidCastException: 從字串 "Warning" 至類型 'Integer' 的轉換是無效的。 ---> System.FormatException: 輸入字串格式不正確。
+   於 Microsoft.VisualBasic.CompilerServices.Conversions.ParseDouble(String Value, NumberFormatInfo NumberFormat)
+   於 Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   --- 內部例外狀況堆疊追蹤的結尾 ---
+   於 Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   於 UrRobotForm.RobotUnitForm.MoveToPos() 於 D:\00. Code\AIC Calibration Platform\OMS - 0305\PrjUrRobotDemo\UrRobotForm\Form1.vb: 行 387
+2025/03/05 10:32:54  , [MoveTcp] System.InvalidCastException: 從字串 "Warning" 至類型 'Integer' 的轉換是無效的。 ---> System.FormatException: 輸入字串格式不正確。
+   於 Microsoft.VisualBasic.CompilerServices.Conversions.ParseDouble(String Value, NumberFormatInfo NumberFormat)
+   於 Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   --- 內部例外狀況堆疊追蹤的結尾 ---
+   於 Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   於 UrRobotForm.RobotUnitForm.MoveToPos() 於 D:\00. Code\AIC Calibration Platform\OMS - 0305\PrjUrRobotDemo\UrRobotForm\Form1.vb: 行 387
+2025/03/05 10:33:03  ,  ============== LOG END v2025.01.15.01 ============== 
+2025/03/05 10:33:06  ,  ============== LOG START v2025.01.15.01 ============== 
+2025/03/05 10:33:08  ,  ============== LOG END v2025.01.15.01 ============== 
+2025/03/05 13:33:05  ,  ============== LOG START v2025.03.05.01 ============== 
+2025/03/05 13:39:57  ,  ============== LOG START v2025.03.05.01 ============== 
+2025/03/05 13:55:53  ,  ============== LOG END v2025.03.05.01 ============== 
+2025/03/05 13:55:55  ,  ============== LOG START v2025.03.05.01 ============== 
+2025/03/05 13:56:08  ,  ============== LOG END v2025.03.05.01 ============== 
+2025/03/05 13:56:53  ,  ============== LOG START v2025.03.05.01 ============== 
+2025/03/05 13:59:31  ,  ============== LOG END v2025.03.05.01 ============== 
+2025/03/05 13:59:32  ,  ============== LOG START v2025.03.05.01 ============== 
+2025/03/05 13:59:47  ,  ============== LOG END v2025.03.05.01 ============== 
+2025/03/05 14:03:41  ,  ============== LOG START v2025.03.05.01 ============== 
+2025/03/05 14:04:33  , [btnGetTcpPosition] System.ArgumentOutOfRangeException: '470.370266250199' 不是 'Value' 的有效值。'Value' 應該介於 'Minimum' 與 'Maximum' 之間。
+參數名稱: Value
+   於 System.Windows.Forms.NumericUpDown.set_Value(Decimal value)
+   於 UrRobotForm.RobotUnitForm.btnGetTcpPosition_Click(Object sender, EventArgs e) 於 D:\Cody\OMS - 0305\PrjUrRobotDemo\UrRobotForm\Form1.vb: 行 274
+2025/03/05 14:04:42  , [btnGetTcpPosition] System.ArgumentOutOfRangeException: '39093825042845700000000000000' 不是 'Value' 的有效值。'Value' 應該介於 'Minimum' 與 'Maximum' 之間。
+參數名稱: Value
+   於 System.Windows.Forms.NumericUpDown.set_Value(Decimal value)
+   於 UrRobotForm.RobotUnitForm.btnGetTcpPosition_Click(Object sender, EventArgs e) 於 D:\Cody\OMS - 0305\PrjUrRobotDemo\UrRobotForm\Form1.vb: 行 273
+2025/03/05 14:09:11  ,  ============== LOG END v2025.03.05.01 ============== 
+2025/03/05 14:09:15  ,  ============== LOG START v2025.03.05.01 ============== 
+2025/03/05 14:13:01  ,  ============== LOG START v2025.03.05.01 ============== 
+2025/03/05 14:15:45  ,  ============== LOG END v2025.03.05.01 ============== 
+2025/03/05 14:15:47  ,  ============== LOG START v2025.03.05.01 ============== 
+2025/03/05 14:15:52  ,  ============== LOG END v2025.03.05.01 ============== 
+2025/03/05 14:16:47  ,  ============== LOG START v2025.03.05.01 ============== 
+2025/03/05 14:19:48  , [btnGetTcpPosition] System.ArgumentOutOfRangeException: '-6364.87166032572' 不是 'Value' 的有效值。'Value' 應該介於 'Minimum' 與 'Maximum' 之間。
+參數名稱: Value
+   於 System.Windows.Forms.NumericUpDown.set_Value(Decimal value)
+   於 UrRobotForm.RobotUnitForm.btnGetTcpPosition_Click(Object sender, EventArgs e) 於 D:\Cody\OMS - 0305\PrjUrRobotDemo\UrRobotForm\Form1.vb: 行 274
+2025/03/05 14:22:34  ,  ============== LOG START v2025.03.05.01 ============== 
+2025/03/05 14:22:48  , [btnGetTcpPosition] System.OverflowException: 數值對 Decimal 而言太大或太小。
+   於 System.Decimal..ctor(Double value)
+   於 UrRobotForm.RobotUnitForm.btnGetTcpPosition_Click(Object sender, EventArgs e) 於 D:\Cody\OMS - 0305\PrjUrRobotDemo\UrRobotForm\Form1.vb: 行 273

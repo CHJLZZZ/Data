@@ -1,0 +1,160 @@
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.csproj.AssemblyReference.cache
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.exe.config
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec._29M_Test_Form.resources
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.frmAlignmentSetting.resources
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.frmMcmqSetting.resources
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.frmUserCalibration.resources
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.frmWarpSetting.resources
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.PanelDataSetting.resources
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.PG_CtrlTool.resources
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.LumResultForm.resources
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.frm29MSetting.resources
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.MarkTeachTool.resources
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.frmLogin.resources
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.frmMain.resources
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.frmSR5100Setting.resources
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.frmSystemSetting.resources
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.frmUserEdit.resources
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.frmUserManage.resources
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.Properties.Resources.resources
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.frmUA200ASetting.resources
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.csproj.GenerateResource.cache
+D:\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.csproj.CoreCompileInputs.cache
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\TransferAOI_Lum_Spec.exe.config
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\TransferAOI_Lum_Spec.exe
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\TransferAOI_Lum_Spec.pdb
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\AASDll.dll
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\ASCOM.DeviceInterfaces.dll
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\ASCOM.DriverAccess.dll
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\ASCOM.Utilities.dll
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\Basler.Pylon.dll
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\CommonBase.dll
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\CsvHelper.dll
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\DimmerLibrary.dll
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\DocumentFormat.OpenXml.dll
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\FTP_Ctrl.dll
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\GigEGrab.dll
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\HsApiNet.DLL
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\Interfaces.dll
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\LightMeasure.dll
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\MaterialSkin.dll
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\Matrox.MatroxImagingLibrary.dll
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\McmqAgent.dll
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\McmqApi.dll
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\PreProcCore.dll
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\PylonC.NET.dll
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\PylonC.NETSupportLibrary.dll
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\SubSystemControl.dll
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\ua_core4_net.dll
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\CudaCore.dll
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\GigEGrab.pdb
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\GigEGrab.xml
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\GigEGrab.dll.config
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\LightMeasure.pdb
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\DocumentFormat.OpenXml.xml
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\Matrox.MatroxImagingLibrary.xml
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\System.Threading.Tasks.Extensions.xml
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.csproj.AssemblyReference.cache
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.g.resources
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec._29M_Test_Form.resources
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.Frm.frmAboutAUO.resources
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.frmOneColorCorrection.resources
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.frmFourColorMatrixMethod.resources
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.Frm.frmOther.resources
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.PanelDataSetting.resources
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.PG_CtrlTool.resources
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.frmParamMSetting.resources
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.MarkTeachTool.resources
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.frmLogin.resources
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.frmMain.resources
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.frmSystemSetting.resources
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.frmUserEdit.resources
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.frmUserManage.resources
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.Properties.Resources.resources
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.csproj.GenerateResource.cache
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.csproj.CoreCompileInputs.cache
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.csproj.CopyComplete
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.exe
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.pdb
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\Optical Measuring System.exe.config
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\Optical Measuring System.exe
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\Optical Measuring System.pdb
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\AASDll.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\ASCOM.DeviceInterfaces.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\ASCOM.DriverAccess.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\ASCOM.Utilities.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\Basler.Pylon.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\CommonBase.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\CsvHelper.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\DimmerLibrary.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\DocumentFormat.OpenXml.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\Emgu.CV.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\FTP_Ctrl.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\GigEGrab.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\HsApiNet.DLL
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\Interfaces.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\LightMeasure.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\MaterialSkin.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\Matrox.MatroxImagingLibrary.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\McmqAgent.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\McmqApi.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\OpenCvSharp.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\PreProcCore.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\PylonC.NET.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\PylonC.NETSupportLibrary.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\SubSystemControl.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\System.Buffers.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\System.Memory.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\System.Numerics.Vectors.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\ua_core4_net.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\CudaCore.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\GigEGrab.pdb
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\GigEGrab.xml
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\GigEGrab.dll.config
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\LightMeasure.pdb
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\DocumentFormat.OpenXml.xml
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\Emgu.CV.xml
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\ICSharpCode.SharpZipLib.pdb
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\ICSharpCode.SharpZipLib.xml
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\OpenCvSharp.xml
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\System.Buffers.xml
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\System.Memory.xml
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\System.Numerics.Vectors.xml
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\bin\x86\Debug\System.Threading.Tasks.Extensions.xml
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.csproj.AssemblyReference.cache
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\Optical Measuring System.g.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\OpticalMeasuringSystem.frmSetDataName.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\OpticalMeasuringSystem.ManualForm.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\OpticalMeasuringSystem.Frm.frmAboutAUO.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\OpticalMeasuringSystem.frmOneColorCorrection.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\OpticalMeasuringSystem.frmFourColorMatrixMethod.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\OpticalMeasuringSystem.Frm.frmOther.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\OpticalMeasuringSystem.frmProcessInfoSetting.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\OpticalMeasuringSystem.PG_CtrlTool.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\OpticalMeasuringSystem.frmParamSetting.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\OpticalMeasuringSystem.frmLogin.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\OpticalMeasuringSystem.frmMain.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\OpticalMeasuringSystem.frmSystemSetting.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\OpticalMeasuringSystem.frmUserEdit.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\OpticalMeasuringSystem.frmUserManage.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\OpticalMeasuringSystem.Properties.Resources.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.csproj.GenerateResource.cache
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.csproj.CoreCompileInputs.cache
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\TransferAOI_Lum_Spec.csproj.CopyComplete
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\Optical Measuring System.exe
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\TransferAOI_Lum_Spec\obj\x86\Debug\Optical Measuring System.pdb

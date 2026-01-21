@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BootConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TimeLog_Enable>false</TimeLog_Enable>
+  <Camera_Type>M_SYSTEM_RADIENTPRO</Camera_Type>
+  <Camera_CamFile>D:\OpticalMeasurementData\61M_Trigger mode_Internal_2Tap_65MHz_Base.dcf</Camera_CamFile>
+  <Camera_CamNo>0</Camera_CamNo>
+  <Camrea_Bin>1</Camrea_Bin>
+  <Camrea_ImageWidth>9568</Camrea_ImageWidth>
+  <Camrea_ImageHeight>6380</Camrea_ImageHeight>
+  <Camrea_ImageBits>12</Camrea_ImageBits>
+  <CameraGainControlIsOpen>true</CameraGainControlIsOpen>
+  <CameraGainControl_PortName>COM7</CameraGainControl_PortName>
+  <CameraGainControl_BaudRate>115200</CameraGainControl_BaudRate>
+  <XYZFilterName>ASCOM.EFW2.FilterWheel</XYZFilterName>
+  <NDFilterName>ASCOM.EFW2_2.FilterWheel</NDFilterName>
+  <PatGenIsOpen>true</PatGenIsOpen>
+  <PatGen_CommType>RS232</PatGen_CommType>
+  <PatGen_BaudRate>57600</PatGen_BaudRate>
+  <PatGen_DelayTime>1000</PatGen_DelayTime>
+  <ConfigPath>D:\OpticalMeasurementData\AIC\Config</ConfigPath>
+  <SystemLogPath>D:\OpticalMeasurementData\AIC\Log\systemlog</SystemLogPath>
+  <NetworkLogPath>D:\OpticalMeasurementData\AIC\Log\networklog</NetworkLogPath>
+  <WarningLogPath>D:\OpticalMeasurementData\AIC\Log\warninglog</WarningLogPath>
+  <ErrorLogPath>D:\OpticalMeasurementData\AIC\Log\errorlog</ErrorLogPath>
+  <DebugLogPath>D:\OpticalMeasurementData\AIC\Log\debuglog</DebugLogPath>
+  <OutputPath>D:\OpticalMeasurementData\AIC\Output\</OutputPath>
+  <SaveSourceImage>true</SaveSourceImage>
+</BootConfig>

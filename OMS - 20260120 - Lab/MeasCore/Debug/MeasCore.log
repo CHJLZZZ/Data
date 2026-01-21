@@ -1,0 +1,3 @@
+﻿  Stdafx.cpp
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\MeasCore\Stdafx.cpp : fatal error C1192: #using 不能用於 'D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\Debug\CudaCore.dll'
+          '系統找不到指定的檔案。'

@@ -1,0 +1,14 @@
+D:\TransferAOI - Lum_Spec(Ver 0818) - 複製\MeasCore\x64\Debug\MeasCore.vcxproj.AssemblyReference.cache
+D:\TransferAOI - Lum_Spec(Ver 0818) - 複製\MeasCore\x64\Debug\MeasCore.vcxproj.CopyComplete
+D:\05. Optical Measurement System\MeasCore\x64\Debug\MeasCore.vcxproj.AssemblyReference.cache
+D:\05. Optical Measurement System\MeasCore\x64\Debug\MeasCore.vcxproj.CopyComplete
+D:\05. Optical Measurement System\Optical Measurement System\MeasCore\x64\Debug\MeasCore.vcxproj.AssemblyReference.cache
+D:\05. Optical Measurement System\Optical Measurement System\MeasCore\x64\Debug\MeasCore.vcxproj.CopyComplete
+D:\Jack\Optical Measurement System\MeasCore\x64\Debug\MeasCore.vcxproj.AssemblyReference.cache
+D:\Jack\Optical Measurement System\MeasCore\x64\Debug\MeasCore.vcxproj.CopyComplete
+D:\TY\Optical Measurement System\MeasCore\x64\Debug\MeasCore.vcxproj.AssemblyReference.cache
+D:\TY\Optical Measurement System\MeasCore\x64\Debug\MeasCore.vcxproj.CopyComplete
+D:\Optical Measurement System\MeasCore\x64\Debug\MeasCore.vcxproj.CopyComplete
+D:\Optical Measurement System\MeasCore\x64\Debug\MeasCore.vcxproj.AssemblyReference.cache
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\MeasCore\x64\Debug\MeasCore.vcxproj.CopyComplete
+D:\05. Optical Measurement System\03. Code\Optical Measurement System\MeasCore\x64\Debug\MeasCore.vcxproj.AssemblyReference.cache

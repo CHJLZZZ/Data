@@ -1,0 +1,34 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(2203,5): warning MSB3274: 無法解析主要參考 "D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\x64\Debug\CudaCore.dll"，因為它是針對 ".NETFramework,Version=v4.7.2" 架構所建置。這個版本高於目前的目標架構 ".NETFramework,Version=v4.5.2"。
+  Stdafx.cpp
+  AssemblyInfo.cpp
+  PreProcCore.cpp
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\MeasCore\PreProcCore.h(9,25): error C2871: 'CudaCore': 此名稱的命名空間不存在
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\MeasCore\PreProcCore.h(28,18): error C2143: 語法錯誤: 遺漏 ';' (在 '^' 之前)
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\MeasCore\PreProcCore.h(28,18): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\MeasCore\PreProcCore.h(28,26): error C2238: 在 ';' 之前有未預期的語彙基元
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\MeasCore\PreProcCore.cpp(16,9): error C2039: 'CudaIF': 並非 'PreProcCore::ImgPreProcCore' 的成員
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\MeasCore\PreProcCore.h(16): message : 請參閱 'PreProcCore::ImgPreProcCore' 的宣告
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\MeasCore\PreProcCore.cpp(16,24): error C2061: 語法錯誤: 識別項 'CudaInterFace'
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\MeasCore\PreProcCore.cpp(17,9): error C2039: 'CudaIF': 並非 'PreProcCore::ImgPreProcCore' 的成員
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\MeasCore\PreProcCore.h(16): message : 請參閱 'PreProcCore::ImgPreProcCore' 的宣告
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\MeasCore\PreProcCore.cpp(18,36): error C2039: 'CudaIF': 並非 'PreProcCore::ImgPreProcCore' 的成員
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\MeasCore\PreProcCore.h(16): message : 請參閱 'PreProcCore::ImgPreProcCore' 的宣告
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\MeasCore\PreProcCore.cpp(19,32): error C2039: 'CudaIF': 並非 'PreProcCore::ImgPreProcCore' 的成員
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\MeasCore\PreProcCore.h(16): message : 請參閱 'PreProcCore::ImgPreProcCore' 的宣告
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\MeasCore\PreProcCore.cpp(33,12): error C2039: 'CudaIF': 並非 'PreProcCore::ImgPreProcCore' 的成員
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\MeasCore\PreProcCore.h(16): message : 請參閱 'PreProcCore::ImgPreProcCore' 的宣告
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\MeasCore\PreProcCore.cpp(35,16): error C2039: 'CudaIF': 並非 'PreProcCore::ImgPreProcCore' 的成員
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\MeasCore\PreProcCore.h(16): message : 請參閱 'PreProcCore::ImgPreProcCore' 的宣告
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\MeasCore\PreProcCore.cpp(36,9): error C2039: 'CudaIF': 並非 'PreProcCore::ImgPreProcCore' 的成員
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\MeasCore\PreProcCore.h(16): message : 請參閱 'PreProcCore::ImgPreProcCore' 的宣告
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\MeasCore\PreProcCore.cpp(70,40): warning C4477: 'sprintf_s' : 格式字串 '%s' 需要 'char *' 類型的引數，但 variadic 引數 1 的類型為 'System::String ^'
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\MeasCore\PreProcCore.cpp(169,40): warning C4477: 'sprintf_s' : 格式字串 '%s' 需要 'char *' 類型的引數，但 variadic 引數 1 的類型為 'System::String ^'
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\MeasCore\PreProcCore.cpp(203,40): warning C4477: 'sprintf_s' : 格式字串 '%s' 需要 'char *' 類型的引數，但 variadic 引數 1 的類型為 'System::String ^'
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\MeasCore\PreProcCore.cpp(280,9): error C2039: 'CudaIF': 並非 'PreProcCore::ImgPreProcCore' 的成員
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\MeasCore\PreProcCore.h(16): message : 請參閱 'PreProcCore::ImgPreProcCore' 的宣告
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\MeasCore\PreProcCore.cpp(281,36): error C2039: 'CudaIF': 並非 'PreProcCore::ImgPreProcCore' 的成員
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\MeasCore\PreProcCore.h(16): message : 請參閱 'PreProcCore::ImgPreProcCore' 的宣告
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\MeasCore\PreProcCore.cpp(283,73): error C2039: 'CudaIF': 並非 'PreProcCore::ImgPreProcCore' 的成員
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\MeasCore\PreProcCore.h(16): message : 請參閱 'PreProcCore::ImgPreProcCore' 的宣告
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\MeasCore\PreProcCore.cpp(293,41): warning C4477: 'sprintf_s' : 格式字串 '%s' 需要 'char *' 類型的引數，但 variadic 引數 1 的類型為 'System::String ^'
+  正在產生程式碼...

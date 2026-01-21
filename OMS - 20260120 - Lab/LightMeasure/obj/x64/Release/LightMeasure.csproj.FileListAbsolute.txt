@@ -1,0 +1,50 @@
+D:\Source\LightMeasureTester\LightMeasure\bin\x64\Release\LightMeasure.dll
+D:\Source\LightMeasureTester\LightMeasure\bin\x64\Release\LightMeasure.pdb
+D:\Source\LightMeasureTester\LightMeasure\bin\x64\Release\CommonBase.dll
+D:\Source\LightMeasureTester\LightMeasure\bin\x64\Release\Matrox.MatroxImagingLibrary.dll
+D:\Source\LightMeasureTester\LightMeasure\bin\x64\Release\Matrox.MatroxImagingLibrary.xml
+D:\Source\LightMeasureTester\LightMeasure\obj\x64\Release\LightMeasure.csproj.CoreCompileInputs.cache
+D:\Source\LightMeasureTester\LightMeasure\obj\x64\Release\LightMeasure.csproj.CopyComplete
+D:\Source\LightMeasureTester\LightMeasure\obj\x64\Release\LightMeasure.dll
+D:\Source\LightMeasureTester\LightMeasure\obj\x64\Release\LightMeasure.pdb
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\LightMeasure\bin\x64\Release\LightMeasure.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\LightMeasure\bin\x64\Release\LightMeasure.pdb
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\LightMeasure\bin\x64\Release\CommonBase.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\LightMeasure\bin\x64\Release\Matrox.MatroxImagingLibrary.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\LightMeasure\bin\x64\Release\Matrox.MatroxImagingLibrary.xml
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\LightMeasure\obj\x64\Release\LightMeasure.csproj.CoreCompileInputs.cache
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\LightMeasure\obj\x64\Release\LightMeasure.csproj.CopyComplete
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\LightMeasure\obj\x64\Release\LightMeasure.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\LightMeasure\obj\x64\Release\LightMeasure.pdb
+D:\0607_Rick test\Optical Measurement System\LightMeasure\bin\x64\Release\LightMeasure.dll
+D:\0607_Rick test\Optical Measurement System\LightMeasure\bin\x64\Release\LightMeasure.pdb
+D:\0607_Rick test\Optical Measurement System\LightMeasure\bin\x64\Release\CommonBase.dll
+D:\0607_Rick test\Optical Measurement System\LightMeasure\bin\x64\Release\Matrox.MatroxImagingLibrary.dll
+D:\0607_Rick test\Optical Measurement System\LightMeasure\bin\x64\Release\Matrox.MatroxImagingLibrary.xml
+D:\0607_Rick test\Optical Measurement System\LightMeasure\obj\x64\Release\LightMeasure.csproj.CoreCompileInputs.cache
+D:\0607_Rick test\Optical Measurement System\LightMeasure\obj\x64\Release\LightMeasure.csproj.CopyComplete
+D:\0607_Rick test\Optical Measurement System\LightMeasure\obj\x64\Release\LightMeasure.dll
+D:\0607_Rick test\Optical Measurement System\LightMeasure\obj\x64\Release\LightMeasure.pdb
+D:\work\Rick\Optical Measurement System\LightMeasure\bin\x64\Release\LightMeasure.dll
+D:\work\Rick\Optical Measurement System\LightMeasure\bin\x64\Release\LightMeasure.pdb
+D:\work\Rick\Optical Measurement System\LightMeasure\bin\x64\Release\CommonBase.dll
+D:\work\Rick\Optical Measurement System\LightMeasure\bin\x64\Release\Config.dll
+D:\work\Rick\Optical Measurement System\LightMeasure\bin\x64\Release\Matrox.MatroxImagingLibrary.dll
+D:\work\Rick\Optical Measurement System\LightMeasure\bin\x64\Release\Config.pdb
+D:\work\Rick\Optical Measurement System\LightMeasure\bin\x64\Release\Matrox.MatroxImagingLibrary.xml
+D:\work\Rick\Optical Measurement System\LightMeasure\obj\x64\Release\LightMeasure.csprojAssemblyReference.cache
+D:\work\Rick\Optical Measurement System\LightMeasure\obj\x64\Release\LightMeasure.csproj.CoreCompileInputs.cache
+D:\work\Rick\Optical Measurement System\LightMeasure\obj\x64\Release\LightMeasure.csproj.CopyComplete
+D:\work\Rick\Optical Measurement System\LightMeasure\obj\x64\Release\LightMeasure.dll
+D:\work\Rick\Optical Measurement System\LightMeasure\obj\x64\Release\LightMeasure.pdb
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\LightMeasure\bin\x64\Release\LightMeasure.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\LightMeasure\bin\x64\Release\LightMeasure.pdb
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\LightMeasure\bin\x64\Release\CommonBase.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\LightMeasure\bin\x64\Release\Config.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\LightMeasure\bin\x64\Release\Matrox.MatroxImagingLibrary.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\LightMeasure\bin\x64\Release\Config.pdb
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\LightMeasure\obj\x64\Release\LightMeasure.csproj.AssemblyReference.cache
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\LightMeasure\obj\x64\Release\LightMeasure.csproj.CoreCompileInputs.cache
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\LightMeasure\obj\x64\Release\LightMeasure.csproj.CopyComplete
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\LightMeasure\obj\x64\Release\LightMeasure.dll
+D:\WORK\AIC_光學壓縮頭\Optical Measurement System\LightMeasure\obj\x64\Release\LightMeasure.pdb

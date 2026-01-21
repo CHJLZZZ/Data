@@ -1,0 +1,45 @@
+2023/12/12 15:31:43  ,  ============== LOG START v0.0.0.0 ============== 
+2023/12/12 15:31:47  ,  ============== LOG END v0.0.0.0 ============== 
+2023/12/12 15:32:33  ,  ============== LOG START v0.0.0.0 ============== 
+2023/12/12 15:32:52  ,  ============== LOG END v0.0.0.0 ============== 
+2023/12/12 15:32:59  ,  ============== LOG START v0.0.0.0 ============== 
+2023/12/12 15:33:13  ,  ============== LOG END v0.0.0.0 ============== 
+2023/12/12 15:34:08  ,  ============== LOG START v0.0.0.0 ============== 
+2023/12/12 15:34:13  , [MoveTcp] System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 UrRobotForm.Form1.MoveToPos() 於 D:\PENO\AIC\PrjUrRobotDemo\UrRobotForm\Form1.vb: 行 361
+2023/12/12 15:34:19  , [MoveTcp] System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 UrRobotForm.Form1.MoveToPos() 於 D:\PENO\AIC\PrjUrRobotDemo\UrRobotForm\Form1.vb: 行 361
+2023/12/12 15:34:24  ,  ============== LOG END v0.0.0.0 ============== 
+2023/12/12 15:34:57  ,  ============== LOG START v0.0.0.0 ============== 
+2023/12/12 15:35:14  , [MoveTcp] System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 UrRobotForm.Form1.MoveToPos() 於 D:\PENO\AIC\PrjUrRobotDemo\UrRobotForm\Form1.vb: 行 361
+2023/12/12 15:35:17  ,  ============== LOG END v0.0.0.0 ============== 
+2023/12/12 15:36:11  ,  ============== LOG START v0.0.0.0 ============== 
+2023/12/12 15:36:22  ,  ============== LOG END v0.0.0.0 ============== 
+2023/12/12 15:37:10  ,  ============== LOG START v0.0.0.0 ============== 
+2023/12/12 15:37:14  , m_ClsUrRobotInterface Is Nothing
+2023/12/12 15:37:20  ,  ============== LOG END v0.0.0.0 ============== 
+2023/12/12 15:54:46  ,  ============== LOG START v0.0.0.0 ============== 
+2023/12/12 15:54:53  , m_ClsUrRobotInterface Is Nothing
+2023/12/12 15:54:53  , m_ClsUrRobotInterface Is Nothing
+2023/12/12 15:54:54  , m_ClsUrRobotInterface Is Nothing
+2023/12/12 15:54:54  , m_ClsUrRobotInterface Is Nothing
+2023/12/12 15:54:54  , m_ClsUrRobotInterface Is Nothing
+2023/12/12 15:54:54  , m_ClsUrRobotInterface Is Nothing
+2023/12/12 15:54:55  , m_ClsUrRobotInterface Is Nothing
+2023/12/12 15:54:55  , m_ClsUrRobotInterface Is Nothing
+2023/12/12 15:54:56  , m_ClsUrRobotInterface Is Nothing
+2023/12/12 15:54:56  , m_ClsUrRobotInterface Is Nothing
+2023/12/12 15:54:56  , m_ClsUrRobotInterface Is Nothing
+2023/12/12 15:54:56  , m_ClsUrRobotInterface Is Nothing
+2023/12/12 15:54:57  , m_ClsUrRobotInterface Is Nothing
+2023/12/12 15:54:57  , m_ClsUrRobotInterface Is Nothing
+2023/12/12 15:54:57  , m_ClsUrRobotInterface Is Nothing
+2023/12/12 15:54:57  , m_ClsUrRobotInterface Is Nothing
+2023/12/12 15:54:57  , m_ClsUrRobotInterface Is Nothing
+2023/12/12 15:55:10  , m_ClsUrRobotInterface Is Nothing
+2023/12/12 16:06:02  , m_ClsUrRobotInterface Is Nothing
+2023/12/12 16:06:12  , m_ClsUrRobotInterface Is Nothing
+2023/12/12 16:06:16  , m_ClsUrRobotInterface Is Nothing
+2023/12/12 16:08:30  ,  ============== LOG START v0.0.0.0 ============== 
+2023/12/12 16:08:35  ,  ============== LOG END v0.0.0.0 ============== 

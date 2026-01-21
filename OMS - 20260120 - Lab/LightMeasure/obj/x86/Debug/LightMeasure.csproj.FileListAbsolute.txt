@@ -1,0 +1,11 @@
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\LightMeasure\bin\x86\Debug\LightMeasure.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\LightMeasure\bin\x86\Debug\LightMeasure.pdb
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\LightMeasure\bin\x86\Debug\CommonBase.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\LightMeasure\bin\x86\Debug\Matrox.MatroxImagingLibrary.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\LightMeasure\bin\x86\Debug\Matrox.MatroxImagingLibrary.xml
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\LightMeasure\obj\x86\Debug\LightMeasure.MeasRecipeSettingControl.resources
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\LightMeasure\obj\x86\Debug\LightMeasure.csproj.GenerateResource.cache
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\LightMeasure\obj\x86\Debug\LightMeasure.csproj.CoreCompileInputs.cache
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\LightMeasure\obj\x86\Debug\LightMeasure.csproj.CopyComplete
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\LightMeasure\obj\x86\Debug\LightMeasure.dll
+D:\work\Tool\33_AIC_光學量測頭\Optical Measurement System\LightMeasure\obj\x86\Debug\LightMeasure.pdb

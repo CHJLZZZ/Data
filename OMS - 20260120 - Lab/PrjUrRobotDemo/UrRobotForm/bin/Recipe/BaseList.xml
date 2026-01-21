@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clsBaseArray xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BaseArray>
+    <clsBase>
+      <Order>0</Order>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <Roll>0</Roll>
+      <Pitch>0</Pitch>
+      <Yaw>0</Yaw>
+      <Comment />
+    </clsBase>
+    <clsBase>
+      <Order>1</Order>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <Roll>0</Roll>
+      <Pitch>0</Pitch>
+      <Yaw>0</Yaw>
+      <Comment />
+    </clsBase>
+    <clsBase>
+      <Order>2</Order>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <Roll>0</Roll>
+      <Pitch>0</Pitch>
+      <Yaw>0</Yaw>
+      <Comment>5555</Comment>
+    </clsBase>
+  </BaseArray>
+</clsBaseArray>

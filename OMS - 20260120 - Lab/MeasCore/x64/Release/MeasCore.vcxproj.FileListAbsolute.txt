@@ -1,0 +1,2 @@
+D:\work\Tool\19_OpticalMeasureTool\銘章_HotPixel\CudaCore\MeasCore\x64\Release\MeasCore.vcxproj.AssemblyReference.cache
+D:\work\Tool\19_OpticalMeasureTool\銘章_HotPixel\CudaCore\MeasCore\x64\Release\MeasCore.vcxproj.CopyComplete
