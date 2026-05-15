@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageAverager_FlowPara xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ExposureTimeList>
+    <double>500000</double>
+    <double>1000000</double>
+    <double>2000000</double>
+    <double>3000000</double>
+    <double>4000000</double>
+    <double>5000000</double>
+    <double>6000000</double>
+    <double>7000000</double>
+    <double>8000000</double>
+    <double>9000000</double>
+    <double>10000000</double>
+  </ExposureTimeList>
+  <CaptureTimes>5</CaptureTimes>
+  <MergeMethod>Median</MergeMethod>
+</ImageAverager_FlowPara>
